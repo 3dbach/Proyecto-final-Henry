@@ -37,4 +37,4 @@ Autores y Reconocimientos 🌟
 Lista de contribuyentes al proyecto.
 Agradecimientos a colaboradores, instituciones, etc.
 Licencia 📄
-Este proyecto está bajo la Licencia [INSERTAR TIPO DE LICENCIA] - ver el archivo LICENSE.md para detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles.
