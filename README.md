@@ -2,7 +2,7 @@
 
 🚕 NYC Taxis & Carbon Emission Analysis Project 🌱
 
-
+[![Nissan-Taxi-11-644x362.webp](https://i.postimg.cc/Vkjtpg7n/Nissan-Taxi-11-644x362.webp)](https://postimg.cc/G4m9sFnm)
 
 Descripción 📝
 Este proyecto se enfoca en analizar el impacto de los taxis y servicios de viaje compartido en la emisión de carbono en la ciudad de Nueva York. Utilizando datos de tráfico y emisiones de CO2, buscamos proponer soluciones sostenibles para reducir la huella de carbono de estos servicios.
