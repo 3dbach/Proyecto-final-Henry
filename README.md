@@ -5,7 +5,9 @@
 [![Nissan-Taxi-11-644x362.webp](https://i.postimg.cc/Vkjtpg7n/Nissan-Taxi-11-644x362.webp)](https://postimg.cc/G4m9sFnm)
 
 ##### Descripción 📝
-Este proyecto se enfoca en analizar el impacto de los taxis y servicios de viaje compartido en la emisión de carbono en la ciudad de Nueva York. Utilizando datos de tráfico y emisiones de CO2, buscamos proponer soluciones sostenibles para reducir la huella de carbono de estos servicios.
+Este proyecto se enfoca en analizar el impacto de los taxis y servicios de viaje compartido en la emisión de carbono en la ciudad de Nueva York. Utilizando datos de tráfico y emisiones de CO2, buscamos proponer soluciones sostenibles para reducir la huella de carbono de estos servicios al mismo tiempo que se evalua la adquisicion de una flota de taxis en la ciudad de Nueva York.
+
+El servicio proporciona a la empresa un sistema integral de análisis y predicción. Incluye un dashboard interactivo que presenta de manera visual y accesible información clave sobre el desempeño y las tendencias de la empresa. Además, se implementan dos modelos avanzados de predicción: Gradient Boosting Regressor para anticipar valores numéricos en diversos contextos, y ARIMA, un modelo especializado en series temporales, para proyectar comportamientos futuros basados en datos históricos. Estos modelos mejoran la capacidad de la empresa para tomar decisiones informadas y estratégicas, optimizando la planificación y la gestión de recursos.
 
 ##### Stack Tecnológico 🛠️
 Google Cloud Platform: Para almacenamiento de datos, procesamiento y análisis (BigQuery, Dataflow, Cloud Storage).
