@@ -12,7 +12,7 @@ El servicio proporciona a la empresa un sistema integral de análisis y predicci
 ##### Stack Tecnológico 🛠️
 Google Cloud Platform: Para almacenamiento de datos, procesamiento y análisis (BigQuery, Dataflow, Cloud Storage).
 
-Python: Limpieza y análisis de datos (Pandas, NumPy), modelado estadístico (Scikit-learn).
+Python: Limpieza y análisis de datos (Pandas, NumPy), modelado estadístico (Scikit-learn), statsmodels.
 
 Google Cloud Function: Para el deployment de los modelos de machine learning.
 
