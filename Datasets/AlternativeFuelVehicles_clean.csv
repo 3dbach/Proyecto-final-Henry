@@ -1,0 +1,883 @@
+,Category,Model,Model Year,Manufacturer,Fuel,Conventional Fuel Economy City,Conventional Fuel Economy Highway,Conventional Fuel Economy Combined,Transmission Type,Engine Type,Engine Size,Engine Cylinder Count
+814,Step Van,(various models),2022,Morgan-Olson,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+878,Step Van,(various models),2022,Utilimaster,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+718,Vocational/Cab Chassis,114SD NG - Class 8,2022,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+548,Pickup,1500 2WD,2021,Ram,Hybrid Electric,17.0,23.0,19.0,Automatic,SI,5.7L,8.0
+547,Pickup,1500 2WD,2021,Ram,Hybrid Electric,20.0,25.0,22.0,Automatic,SI,3.6L,6.0
+550,Pickup,1500 4WD,2021,Ram,Hybrid Electric,17.0,22.0,19.0,Automatic,SI,5.7L,8.0
+549,Pickup,1500 4WD,2021,Ram,Hybrid Electric,19.0,24.0,21.0,Automatic,SI,3.6L,6.0
+262,Pickup,1500 4X2,2022,Ram,Hybrid Electric,20.0,25.0,22.0,Automatic,SI,3.6L,6.0
+263,Pickup,1500 4X2,2022,Ram,Hybrid Electric,18.0,23.0,20.0,Automatic,SI,5.7L,8.0
+264,Pickup,1500 4X4,2022,Ram,Hybrid Electric,18.0,22.0,19.0,Automatic,SI,5.7L,8.0
+265,Pickup,1500 4X4,2022,Ram,Hybrid Electric,19.0,24.0,21.0,Automatic,SI,3.6L,6.0
+266,Pickup,1500 HFE 4X2,2022,Ram,Hybrid Electric,20.0,26.0,23.0,Automatic,SI,3.6L,6.0
+551,Pickup,1500 HFE 4X2,2021,Ram,Hybrid Electric,20.0,26.0,23.0,Automatic,SI,3.6L,6.0
+837,Vocational/Cab Chassis,220EV - Class 6,2022,Peterbilt,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+838,Vocational/Cab Chassis,220EV - Class 7,2022,Peterbilt,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+853,Pickup,2500/3500 HD,2022,RAM,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+350,Sedan/Wagon,330e,2021,BMW,Plug-in Hybrid Electric,25.0,33.0,28.0,Automatic,SI,2.0L,4.0
+39,Sedan/Wagon,330e Sedan,2022,BMW,Plug-in Hybrid Electric,25.0,33.0,28.0,Automatic,SI,2.0L,4.0
+40,Sedan/Wagon,330e xDrive,2022,BMW,Plug-in Hybrid Electric,22.0,30.0,25.0,Automatic,SI,2.0L,4.0
+351,Sedan/Wagon,330e xDrive,2021,BMW,Plug-in Hybrid Electric,22.0,30.0,25.0,Automatic,SI,2.0L,4.0
+638,Vocational/Cab Chassis,3500/4500 Low Cab Forward,2022,Chevrolet,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+854,Vocational/Cab Chassis,3500/4500/5500,2022,RAM,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+639,Vocational/Cab Chassis,"4500 HD, 4500 XD, 5500 HD, 5500 XD Low Cab Forward",2022,Chevrolet,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+875,Street Sweeper,500x,2022,TYMCO,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+839,Vocational/Cab Chassis,520,2022,Peterbilt,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+840,Refuse,520EV - Class 8,2022,Peterbilt,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+352,Sedan/Wagon,530e,2021,BMW,Plug-in Hybrid Electric,24.0,29.0,26.0,Automatic,SI,2.0L,4.0
+41,Sedan/Wagon,530e Sedan,2022,BMW,Plug-in Hybrid Electric,24.0,29.0,26.0,Automatic,SI,2.0L,4.0
+353,Sedan/Wagon,530e xDrive,2021,BMW,Plug-in Hybrid Electric,22.0,28.0,25.0,Automatic,SI,2.0L,4.0
+42,Sedan/Wagon,530e xDrive Sedan,2022,BMW,Plug-in Hybrid Electric,22.0,28.0,25.0,Automatic,SI,2.0L,4.0
+841,Vocational/Cab Chassis,535 - Class 5,2022,Peterbilt,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,Automatic|Manual,unknown,unknown,5.45
+842,Vocational/Cab Chassis,536 - Class 6,2022,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,Automatic|Manual,unknown,unknown,5.45
+843,Vocational/Cab Chassis,537 - Class 7,2022,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,Automatic|Manual,unknown,unknown,5.45
+354,SUV,540i,2021,BMW,Hybrid Electric,25.0,32.0,27.0,Automatic,SI,3.0L,6.0
+43,Sedan/Wagon,540i Sedan,2022,BMW,Hybrid Electric,25.0,32.0,27.0,Automatic,SI,3.0L,6.0
+355,SUV,540i xDrive,2021,BMW,Hybrid Electric,23.0,31.0,26.0,Automatic,SI,3.0L,6.0
+44,Sedan/Wagon,540i xDrive Sedan,2022,BMW,Hybrid Electric,22.0,29.0,25.0,Automatic,SI,3.0L,6.0
+844,Vocational/Cab Chassis,548 - Class 8,2022,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,Automatic|Manual,unknown,unknown,5.45
+845,TractorVocational/Cab Chassis,567 - Class 8,2022,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,Automatic|Manual,unknown,unknown,5.45
+846,Vocational/Cab ChassisTractor,579,2022,Peterbilt,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,Automatic|Manual,unknown,unknown,5.45
+847,Tractor,579EV - Class 8,2022,Peterbilt,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+876,Street Sweeper,600,2022,TYMCO,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+640,Vocational/Cab Chassis,6500 XD Low Cab Forward,2022,Chevrolet,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+621,Vocational/Cab Chassis,6F,2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+622,Refuse,6R,2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+45,Sedan/Wagon,745e xDrive,2022,BMW,Plug-in Hybrid Electric,19.0,26.0,22.0,Automatic,SI,3.0L,6.0
+356,Sedan/Wagon,745e xDrive,2021,BMW,Plug-in Hybrid Electric,19.0,26.0,22.0,Automatic,SI,3.0L,6.0
+623,Refuse,8R,2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+624,Tractor,8TT Day Cab,2022,BYD,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+625,Tractor,8Y Terminal Tractor,2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+1,Sedan/Wagon,A3 ,2022,Audi,Hybrid Electric,29.0,38.0,32.0,Automatic,SI,2.0L,4.0
+2,Sedan/Wagon,A3 quattro,2022,Audi,Hybrid Electric,28.0,36.0,31.0,Automatic,SI,2.0L,4.0
+5,Sedan/Wagon,A4 S line quattro,2022,Audi,Hybrid Electric,24.0,31.0,27.0,Automatic,SI,2.0L,4.0
+323,Sedan/Wagon,A4 S line quattro,2021,Audi,Hybrid Electric,24.0,31.0,27.0,Automatic,SI,2.0L,4.0
+3,Sedan/Wagon,A4 allroad quattro,2022,Audi,Hybrid Electric,24.0,30.0,26.0,Automatic,SI,2.0L,4.0
+321,Sedan/Wagon,A4 allroad quattro,2021,Audi,Hybrid Electric,24.0,30.0,26.0,Automatic,SI,2.0L,4.0
+4,Sedan/Wagon,A4 quattro,2022,Audi,Hybrid Electric,26.0,34.0,29.0,Automatic,SI,2.0L,4.0
+322,Sedan/Wagon,A4 quattro,2021,Audi,Hybrid Electric,25.0,34.0,28.0,Automatic,SI,2.0L,4.0
+324,Sedan/Wagon,A5 Cabriolet quattro,2021,Audi,Hybrid Electric,23.0,31.0,26.0,Automatic,SI,2.0L,4.0
+6,Sedan/Wagon,A5 Cabriolet quattro,2022,Audi,Hybrid Electric,23.0,31.0,26.0,Automatic,SI,2.0L,4.0
+7,Sedan/Wagon,A5 Coupe quattro,2022,Audi,Hybrid Electric,24.0,31.0,27.0,Automatic,SI,2.0L,4.0
+327,Sedan/Wagon,A5 Sportback S line quattro,2021,Audi,Hybrid Electric,24.0,31.0,27.0,Automatic,SI,2.0L,4.0
+9,Sedan/Wagon,A5 Sportback S line quattro,2022,Audi,Hybrid Electric,24.0,31.0,27.0,Automatic,SI,2.0L,4.0
+326,Sedan/Wagon,A5 Sportback quattro,2021,Audi,Hybrid Electric,25.0,34.0,28.0,Automatic,SI,2.0L,4.0
+8,Sedan/Wagon,A5 Sportback quattro,2022,Audi,Hybrid Electric,26.0,34.0,29.0,Automatic,SI,2.0L,4.0
+325,Sedan/Wagon,A5 quattro,2021,Audi,Hybrid Electric,24.0,31.0,27.0,Automatic,SI,2.0L,4.0
+328,Sedan/Wagon,A6 Allroad,2021,Audi,Hybrid Electric,20.0,26.0,22.0,Automatic,SI,3.0L,6.0
+10,Sedan/Wagon,A6 Allroad quattro,2022,Audi,Hybrid Electric,21.0,28.0,23.0,Automatic,SI,3.0L,6.0
+12,Sedan/Wagon,A6 quattro,2022,Audi,Hybrid Electric,23.0,33.0,26.0,Automatic,SI,2.0L,4.0
+330,Sedan/Wagon,A6 quattro,2021,Audi,Hybrid Electric,23.0,31.0,26.0,Automatic,SI,2.0L,4.0
+11,Sedan/Wagon,A6 quattro,2022,Audi,Hybrid Electric,21.0,30.0,24.0,Automatic,SI,3.0L,6.0
+329,Sedan/Wagon,A6 quattro,2021,Audi,Hybrid Electric,22.0,29.0,24.0,Automatic,SI,3.0L,6.0
+14,Sedan/Wagon,A7 TFSI e quattro,2022,Audi,Plug-in Hybrid Electric,25.0,31.0,27.0,Automatic,SI,2.0L,4.0
+855,Street Sweeper,A7 Tornado sweeper - Class 6,2022,Schwarze Industries,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+856,Street Sweeper,A7 Zephyr sweeper - Class 6,2022,Schwarze Industries,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+13,Sedan/Wagon,A7 quattro,2022,Audi,Hybrid Electric,21.0,30.0,24.0,Automatic,SI,3.0L,6.0
+331,Sedan/Wagon,A7 quattro,2021,Audi,Plug-in Hybrid Electric,26.0,34.0,29.0,Automatic,SI,2.0L,4.0
+332,Sedan/Wagon,A7 quattro,2021,Audi,Hybrid Electric,22.0,29.0,24.0,Automatic,SI,3.0L,6.0
+333,Sedan/Wagon,A8L,2021,Audi,Hybrid Electric,15.0,23.0,18.0,Automatic,SI,4.0L,8.0
+334,Sedan/Wagon,A8L,2021,Audi,Plug-in Hybrid Electric,21.0,26.0,23.0,Automatic,SI,3.0L,6.0
+335,Sedan/Wagon,A8L,2021,Audi,Hybrid Electric,17.0,26.0,21.0,Automatic,SI,3.0L,6.0
+15,Sedan/Wagon,A8L quattro,2022,Audi,Hybrid Electric,19.0,28.0,22.0,Automatic,SI,3.0L,6.0
+596,Vocational/Cab Chassis,ACMD-Xpert,2022,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+594,Street Sweeper,ACMD-Xpert,2022,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+595,Refuse,ACMD-Xpert,2022,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+598,Tractor,ACTT Terminal Tractor,2022,Autocar,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+597,Tractor,ACTT Terminal Tractor,2022,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+600,Refuse,ACX-Xpeditor ,2022,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+601,Street Sweeper,ACX-Xpeditor ,2022,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+599,Vocational/Cab Chassis,ACX-Xpeditor  - Class 8,2022,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+492,Sedan/Wagon,AMG CLS 53 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,3.0L,6.0
+493,Sedan/Wagon,AMG E53 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,22.0,29.0,25.0,Automatic,SI,3.0L,6.0
+209,Sedan/Wagon,AMG E53 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,21.0,29.0,24.0,Automatic,SI,3.0L,6.0
+494,Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2021,Mercedes-Benz,Hybrid Electric,21.0,27.0,23.0,Automatic,SI,3.0L,6.0
+210,Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2022,Mercedes-Benz,Hybrid Electric,20.0,28.0,23.0,Automatic,SI,3.0L,6.0
+211,Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2022,Mercedes-Benz,Hybrid Electric,20.0,28.0,23.0,Automatic,SI,3.0L,6.0
+495,Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2021,Mercedes-Benz,Hybrid Electric,21.0,28.0,24.0,Automatic,SI,3.0L,6.0
+212,SUV,AMG GLE 53 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,18.0,22.0,19.0,Automatic,SI,3.0L,6.0
+496,SUV,AMG GLE 53 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,18.0,22.0,19.0,Automatic,SI,3.0L,6.0
+213,SUV,AMG GLE 53 4MATIC+ (Coupe),2022,Mercedes-Benz,Hybrid Electric,17.0,21.0,19.0,Automatic,SI,3.0L,6.0
+497,SUV,AMG GLE 53 4MATIC+ Coupe,2021,Mercedes-Benz,Hybrid Electric,18.0,23.0,20.0,Automatic,SI,3.0L,6.0
+498,SUV,AMG GLE 63 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,15.0,19.0,16.0,Automatic,SI,4.0L,8.0
+214,SUV,AMG GLE 63 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,14.0,18.0,15.0,Automatic,SI,4.0L,8.0
+215,SUV,AMG GLE 63 S 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,15.0,19.0,16.0,Automatic,SI,4.0L,8.0
+216,SUV,AMG GLE 63 S 4MATIC+ (coupe),2022,Mercedes-Benz,Hybrid Electric,15.0,19.0,16.0,Automatic,SI,4.0L,8.0
+499,SUV,AMG GLE 63 S 4MATIC+ Coupe,2021,Mercedes-Benz,Hybrid Electric,15.0,19.0,17.0,Automatic,SI,4.0L,8.0
+500,SUV,AMG GLS 63 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,14.0,18.0,16.0,Automatic,SI,4.0L,8.0
+501,Sedan/Wagon,AMG GT 43 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,20.0,25.0,22.0,Automatic,SI,3.0L,6.0
+217,Sedan/Wagon,AMG GT 43 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,19.0,25.0,21.0,Automatic,SI,3.0L,6.0
+218,Sedan/Wagon,AMG GT 53 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,19.0,25.0,21.0,Automatic,SI,3.0L,6.0
+502,Sedan/Wagon,AMG GT 53 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,20.0,25.0,22.0,Automatic,SI,3.0L,6.0
+748,Passenger Van/Shuttle Bus,AV Star,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+658,Transit Bus,AXESS 32' low floor,2022,ENC,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+659,Transit Bus,AXESS 32' low floor,2022,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+661,Transit Bus,AXESS 35' low floor,2022,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+660,Transit Bus,AXESS 35' low floor,2022,ENC,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+663,Transit Bus,AXESS 40' low floor,2022,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+662,Transit Bus,AXESS 40' low floor,2022,ENC,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+667,Transit Bus,AXESS-FC 40' low floor,2022,ENC,Hydrogen Fuel Cell,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+132,Sedan/Wagon,Accord,2022,Honda,Hybrid Electric,48.0,47.0,47.0,Automatic,SI,2.0L,4.0
+434,Sedan/Wagon,Accord,2021,Honda,Hybrid Electric,48.0,48.0,48.0,Automatic,SI,2.0L,4.0
+133,Sedan/Wagon,Accord Sport/Touring,2022,Honda,Hybrid Electric,44.0,41.0,43.0,Automatic,SI,2.0L,4.0
+435,Sedan/Wagon,Accord Sport/Touring,2021,Honda,Hybrid Electric,44.0,41.0,43.0,Automatic,SI,2.0L,4.0
+202,Sedan/Wagon,"Air Dream P AWD w/19"" wheels",2022,"Lucid USA, Inc.",Electric,18.67,23.33,20.33,Automatic,e-motor,370kW and 459kW electric motors,7.33
+203,Sedan/Wagon,"Air Dream P AWD w/21"" wheels",2022,"Lucid USA, Inc.",Electric,18.67,23.33,20.33,Automatic,e-motor,370kW and 459kW electric motors,7.33
+204,Sedan/Wagon,"Air Dream R AWD w/19"" wheels",2022,"Lucid USA, Inc.",Electric,18.67,23.33,20.33,Automatic,e-motor,198kW and 498kW electric motors,7.33
+205,Sedan/Wagon,"Air Dream R AWD w/21"" wheels",2022,"Lucid USA, Inc.",Electric,18.67,23.33,20.33,Automatic,e-motor,198kW and 498kW electric motors,7.33
+206,Sedan/Wagon,"Air G Touring AWD w/19"" wheels",2022,"Lucid USA, Inc.",Electric,18.67,23.33,20.33,Automatic,e-motor,178kW and 433kW electric motors,7.33
+207,Sedan/Wagon,"Air G Touring AWD w/21"" wheels",2022,"Lucid USA, Inc.",Electric,18.67,23.33,20.33,Automatic,e-motor,178kW and 433kW electric motors,7.33
+609,Passenger Van/Shuttle Bus,All American Activity,2022,Blue Bird,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+611,School Bus,All American RE Electric,2022,Blue Bird,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+612,Passenger Van/Shuttle Bus,All American RE Electric Activity,2022,Blue Bird,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+610,School Bus,All American Rear Engine - Class 7,2022,Blue Bird,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+858,Passenger Van/Shuttle Bus,Allstar 22,2022,Starcraft,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+799,Tractor,Anthem - Class 8,2022,Mack,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+564,Sedan/Wagon,Avalon Hybrid,2021,Toyota,Hybrid Electric,43.0,43.0,43.0,Automatic,SI,2.5L,4.0
+282,Sedan/Wagon,Avalon Hybrid ,2022,Toyota,Hybrid Electric,43.0,43.0,43.0,Automatic,SI,2.5L,4.0
+565,Sedan/Wagon,Avalon Hybrid XLE,2021,Toyota,Hybrid Electric,43.0,44.0,44.0,Automatic,SI,2.5L,4.0
+283,Sedan/Wagon,Avalon Hybrid XLE,2022,Toyota,Hybrid Electric,43.0,44.0,44.0,Automatic,SI,2.5L,4.0
+490,SUV,Aviator AWD PHEV,2021,Lincoln,Plug-in Hybrid Electric,22.0,25.0,23.0,Automatic,CI,3.0L,6.0
+200,SUV,Aviator AWD PHEV,2022,Lincoln,Plug-in Hybrid Electric,22.0,25.0,23.0,Automatic,SI,3.0L,6.0
+664,Transit Bus,Axess-BEB 32' low floor,2022,ENC,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+665,Transit Bus,Axess-BEB 35' low floor,2022,ENC,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+666,Transit Bus,Axess-BEB 40' low floor,2022,ENC,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+749,School Bus,BEAST,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+726,Transit Bus,"BRT, BRT Plus, Commuter",2022,Gillig,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+727,Transit Bus,"BRT, BRT Plus, Commuter",2022,Gillig,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+349,SUV,Bentayga,2021,Bentley Motors,Plug-in Hybrid Electric,17.0,21.0,19.0,Automatic,SI,3.0L,6.0
+69,Sedan/Wagon,Bolt EUV,2022,Chevrolet,Electric,18.67,23.33,20.33,unknown,e-motor,150 kW electric motor,7.33
+374,Sedan/Wagon,Bolt EV,2021,Chevrolet,Electric,18.0,23.33,20.0,unknown,e-motor,150 kW electric motor,7.33
+70,Sedan/Wagon,Bolt EV,2022,Chevrolet,Electric,18.67,23.33,20.33,unknown,e-motor,150 kW electric motor,7.33
+653,Street Sweeper,Broom Bear,2022,Elgin,CNG - Compressed Natural Gas,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+654,Street Sweeper,Broom Bear CNG Hybrid,2022,Elgin,CNG - Compressed Natural Gas|Plug-in Hybrid Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+655,Street Sweeper,Broom Bear Plug-In Hybrid,2022,Elgin,Plug-in Hybrid Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+219,Sedan/Wagon,C 300,2022,Mercedes-Benz,Hybrid Electric,25.0,35.0,29.0,Automatic,SI,2.0L,4.0
+220,Sedan/Wagon,C 300 4MATIC,2022,Mercedes-Benz,Hybrid Electric,23.0,33.0,27.0,Automatic,SI,2.0L,4.0
+881,Step Van,C-Series,2022,Workhorse,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+626,Passenger Van/Shuttle Bus,C10M (45'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+627,Transit Bus,C10MS (45' double deck),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+308,SUV,C40 Recharge Twin,2022,Volvo,Electric,18.67,23.33,20.33,Automatic,e-motor,150 kW electric motors (X2),7.33
+628,Passenger Van/Shuttle Bus,C6M (23'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+629,Passenger Van/Shuttle Bus,C8M (35'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+630,Transit Bus,C8MS (35' double deck),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+631,Passenger Van/Shuttle Bus,C9M (40'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+779,School Bus,CE Series,2022,IC Bus,Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+503,Sedan/Wagon,CLS 450,2021,Mercedes-Benz,Hybrid Electric,23.0,30.0,26.0,Automatic,SI,3.0L,6.0
+221,Sedan/Wagon,CLS 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,22.0,30.0,25.0,Automatic,SI,3.0L,6.0
+504,Sedan/Wagon,CLS 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,22.0,29.0,25.0,Automatic,SI,3.0L,6.0
+134,SUV,CR-V AWD,2022,Honda,Hybrid Electric,40.0,35.0,38.0,Automatic,SI,2.0L,4.0
+438,SUV,CR-V AWD,2021,Honda,Hybrid Electric,40.0,35.0,38.0,Automatic,SI,2.0L,4.0
+879,Transit Bus,CX45E,2022,Van Hool,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+566,Sedan/Wagon,Camry Hybrid LE,2021,Toyota,Hybrid Electric,51.0,53.0,52.0,Automatic,SI,2.5L,4.0
+284,Sedan/Wagon,Camry Hybrid LE,2022,Toyota,Hybrid Electric,51.0,53.0,52.0,Automatic,SI,2.5L,4.0
+567,Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2021,Toyota,Hybrid Electric,44.0,47.0,46.0,Automatic,SI,2.5L,4.0
+285,Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2022,Toyota,Hybrid Electric,44.0,47.0,46.0,Automatic,SI,2.5L,4.0
+423,Pickup,Canyon 2WD,2021,GMC,Biodiesel (B20),20.0,30.0,23.0,Automatic,CI,2.8L,4.0
+120,Pickup,Canyon 2WD,2022,GMC,Biodiesel (B20),20.0,30.0,23.0,Automatic,CI,2.8L,4.0
+121,Pickup,Canyon 4WD,2022,GMC,Biodiesel (B20),19.0,28.0,22.0,Automatic,CI,2.8L,4.0
+424,Pickup,Canyon 4WD,2021,GMC,Biodiesel (B20),19.0,28.0,22.0,Automatic,CI,2.8L,4.0
+765,Passenger Van/Shuttle Bus,Carriage ,2022,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+719,Tractor,Cascadia Natural Gas,2022,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+530,SUV,Cayenne Turbo S e-Hybrid,2021,Porsche,Plug-in Hybrid Electric,17.0,20.0,18.0,Automatic,SI,4.0L,8.0
+531,SUV,Cayenne Turbo S e-Hybrid Coupe,2021,Porsche,Plug-in Hybrid Electric,17.0,20.0,18.0,Automatic,SI,4.0L,8.0
+248,SUV,Cayenne Turbo S/Coupe e-Hybrid ,2022,Porsche,Plug-in Hybrid Electric,17.0,20.0,18.0,Automatic,SI,4.0L,8.0
+528,SUV,Cayenne e-Hybrid,2021,Porsche,Plug-in Hybrid Electric,20.0,22.0,21.0,Automatic,SI,3.0L ,6.0
+529,SUV,Cayenne e-Hybrid Coupe,2021,Porsche,Plug-in Hybrid Electric,20.0,22.0,21.0,Automatic,SI,3.0L ,6.0
+247,SUV,Cayenne/Coupe/Platinum e-Hybrid,2022,Porsche,Plug-in Hybrid Electric,20.0,22.0,21.0,Automatic,SI,3.0L ,6.0
+436,Sedan/Wagon,Clarity,2021,Honda,Hydrogen Fuel Cell,18.0,23.33,20.0,Automatic,SI,130 kW electric motor,7.33
+437,Sedan/Wagon,Clarity PHEV,2021,Honda,Plug-in Hybrid Electric,44.0,40.0,42.0,Automatic,SI,1.5L,4.0
+71,Pickup,Colorado 2WD,2022,Chevrolet,Biodiesel (B20),20.0,30.0,23.0,Automatic,CI,2.8L,4.0
+375,Pickup,Colorado 2WD,2021,Chevrolet,Biodiesel (B20),20.0,30.0,23.0,Automatic,CI,2.8L,4.0
+72,Pickup,Colorado 4WD,2022,Chevrolet,Biodiesel (B20),19.0,28.0,22.0,Automatic,CI,2.8L,4.0
+376,Pickup,Colorado 4WD,2021,Chevrolet,Biodiesel (B20),19.0,28.0,22.0,Automatic,CI,2.8L,4.0
+377,Pickup,Colorado ZR2 4WD,2021,Chevrolet,Biodiesel (B20),18.0,22.0,19.0,Automatic,CI,2.8L,4.0
+73,Pickup,Colorado ZR2 4WD,2022,Chevrolet,Biodiesel (B20),18.0,22.0,19.0,Automatic,CI,2.8L,4.0
+767,Passenger Van/Shuttle Bus,Commuter,2022,Hometown Manufacturing,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+766,Passenger Van/Shuttle Bus,Commuter,2022,Hometown Manufacturing,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+520,Sedan/Wagon,Cooper SE Countryman ALL4,2021,Mini,Plug-in Hybrid Electric,29.0,30.0,29.0,Automatic,SI,1.5L,3.0
+239,Sedan/Wagon,Cooper SE Countryman ALL4,2022,Mini,Plug-in Hybrid Electric,29.0,30.0,29.0,Automatic,SI,1.5L,3.0
+521,Sedan/Wagon,Cooper SE Hardtop 2 door,2021,Mini,Electric,18.0,23.33,20.0,Automatic,e-motor,135 kW electric motor,7.33
+240,Sedan/Wagon,Cooper SE Hardtop 2 door,2022,Mini,Electric,18.67,23.33,20.33,Automatic,e-motor,135 kW electric motor,7.33
+286,Sedan/Wagon,Corolla Hybrid,2022,Toyota,Hybrid Electric,53.0,52.0,52.0,Automatic,SI,1.8L,4.0
+568,Sedan/Wagon,Corolla Hybrid,2021,Toyota,Hybrid Electric,53.0,52.0,52.0,Automatic,SI,1.8L,4.0
+491,SUV,Corsair AWD PHEV,2021,Lincoln,Plug-in Hybrid Electric,34.0,32.0,33.0,Automatic,CI,2.5L,4.0
+201,SUV,Corsair AWD PHEV,2022,Lincoln,Plug-in Hybrid Electric,34.0,32.0,33.0,Automatic,SI,2.5L,4.0
+552,SUV,Crosstrek Hybrid AWD,2021,Subaru,Plug-in Hybrid Electric,36.0,35.0,35.0,Automatic,unknown,2.0L,4.0
+656,Street Sweeper,Crosswind1,2022,Elgin,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+804,Transit Bus,D4000 Commuter Coach,2022,MCI,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+805,Transit Bus,D4000 Hybrid Commuter Coach - Class 8,2022,MCI,Diesel/Hybrid Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+808,Transit Bus,D45 CRT LE CHARGE - Class 8,2022,MCI,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+806,Transit Bus,D4500 Commuter Coach,2022,MCI,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+807,Transit Bus,D4500 Hybrid Commuter Coach - Class 8,2022,MCI,Diesel/Hybrid Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+602,Vocational/Cab Chassis,DC-64 - Class 8,2022,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+603,Refuse,DC-64R - Class 8,2022,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+470,SUV,Defender 110 MHEV,2021,Land Rover,Hybrid Electric,17.0,22.0,19.0,Automatic,CI,3.0L,6.0
+176,SUV,Defender 110 MHEV,2022,Land Rover,Hybrid Electric,17.0,22.0,19.0,Automatic,SI,3.0L,6.0
+471,SUV,Defender 90 MHEV,2021,Land Rover,Hybrid Electric,17.0,22.0,19.0,Automatic,CI,3.0L,6.0
+177,SUV,Defender 90 MHEV,2022,Land Rover,Hybrid Electric,17.0,22.0,19.0,Automatic,SI,3.0L,6.0
+472,SUV,Discovery MHEV,2021,Land Rover,Hybrid Electric,18.0,24.0,21.0,Automatic,CI,3.0L,6.0
+178,SUV,Discovery MHEV,2022,Land Rover,Hybrid Electric,18.0,24.0,21.0,Automatic,SI,3.0L,6.0
+510,Sedan/Wagon,E 450 (Convertible),2021,Mercedes-Benz,Hybrid Electric,23.0,30.0,25.0,Automatic,SI,3.0L,6.0
+226,Sedan/Wagon,E 450 (Convertible),2022,Mercedes-Benz,Hybrid Electric,22.0,29.0,25.0,Automatic,SI,3.0L,6.0
+511,Sedan/Wagon,E 450 (Coupe),2021,Mercedes-Benz,Hybrid Electric,23.0,31.0,26.0,Automatic,SI,3.0L,6.0
+227,Sedan/Wagon,E 450 (Coupe),2022,Mercedes-Benz,Hybrid Electric,22.0,29.0,25.0,Automatic,SI,3.0L,6.0
+222,Sedan/Wagon,E 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,23.0,30.0,25.0,Automatic,SI,3.0L,6.0
+505,Sedan/Wagon,E 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,23.0,30.0,26.0,Automatic,SI,3.0L,6.0
+506,Sedan/Wagon,E 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,23.0,30.0,26.0,Automatic,SI,3.0L,6.0
+224,Sedan/Wagon,E 450 4MATIC (Convertible),2022,Mercedes-Benz,Hybrid Electric,22.0,29.0,24.0,Automatic,SI,3.0L,6.0
+508,Sedan/Wagon,E 450 4MATIC (Convertible),2021,Mercedes-Benz,Hybrid Electric,23.0,29.0,25.0,Automatic,SI,3.0L,6.0
+225,Sedan/Wagon,E 450 4MATIC (Coupe),2022,Mercedes-Benz,Hybrid Electric,22.0,29.0,24.0,Automatic,SI,3.0L,6.0
+509,Sedan/Wagon,E 450 4MATIC (Coupe),2021,Mercedes-Benz,Hybrid Electric,23.0,30.0,25.0,Automatic,SI,3.0L,6.0
+507,Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2021,Mercedes-Benz,Hybrid Electric,22.0,28.0,24.0,Automatic,SI,3.0L,6.0
+223,Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2022,Mercedes-Benz,Hybrid Electric,21.0,28.0,24.0,Automatic,SI,3.0L,6.0
+682,Vocational/Cab Chassis,E-450 Box Truck,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+684,School Bus,E-450 School Bus,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+685,Passenger Van/Shuttle Bus,E-450 Shuttle,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+686,Step Van,E-450 Step Van,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+688,Vocational/Cab Chassis,E-450 Work Truck,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+156,SUV,E-PACE MHEV,2022,Jaguar,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,2.0L,4.0
+454,SUV,E-PACE MHEV,2021,Jaguar,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,2.0L,4.0
+859,School Bus,E-Quest,2022,Starcraft,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+860,School Bus,E-Quest XL,2022,Starcraft,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+689,Van,E-Transit Cargo Van,2022,Ford,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+690,Vocational/Cab Chassis,E-Transit Cutaway/Chassis Cab,2022,Ford,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+669,Transit Bus,E-Z RIDER II 30',2022,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+668,Transit Bus,E-Z RIDER II 30',2022,ENC,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+671,Transit Bus,E-Z RIDER II 32',2022,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+670,Transit Bus,E-Z RIDER II 32',2022,ENC,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+673,Transit Bus,E-Z RIDER II 35',2022,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+672,Transit Bus,E-Z RIDER II 35',2022,ENC,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+834,Vocational/Cab Chassis,E1 Cutaway Chassis,2022,Optimal-EV,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+678,Vocational/Cab Chassis,"E350, E450 Cutaway",2022,Ford,Propane - Bi-fuel|CNG - Bi-fuel|Propane|CNG - Compressed Natural Gas|Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+679,Vocational/Cab Chassis,"E350, E450 Cutaway",2022,Ford,Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+681,Vocational/Cab Chassis,"E350, E450 Stripped Chassis",2022,Ford,Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+680,Vocational/Cab Chassis,"E350, E450 Stripped Chassis",2022,Ford,Propane - Bi-fuel|Propane|CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+683,Vocational/Cab Chassis,E450 Cutaway,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+687,Vocational/Cab Chassis,E450 Stripped Chassis,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+229,Sedan/Wagon,EQS 580 4MATIC,2022,Mercedes-Benz,Electric,18.67,23.33,20.33,Automatic,e-motor,135 and 255 kW electric motors,7.33
+228,Sedan/Wagon,EQS450+,2022,Mercedes-Benz,Electric,18.67,23.33,20.33,Automatic,e-motor,245 kW electric motor,7.33
+481,Sedan/Wagon,ES 300h,2021,Lexus,Hybrid Electric,43.0,44.0,44.0,Automatic,SI,2.5L,4.0
+191,Sedan/Wagon,ES 300h,2022,Lexus,Hybrid Electric,43.0,44.0,44.0,Automatic,SI,2.5L,4.0
+753,Passenger Van/Shuttle Bus,EV Star,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+757,Vocational/Cab Chassis,EV Star CC,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+755,Van,EV Star Cargo,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+756,Vocational/Cab ChassisVan,EV Star Cargo+,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+754,Passenger Van/Shuttle Bus,EV Star+,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+750,Transit Bus,EV250,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+751,Transit Bus,EV350,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+752,Transit Bus,EV550,2022,GreenPower Motor Company,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+165,Sedan/Wagon,EV6 AWD (Long Range) ,2022,Kia,Electric,18.67,23.33,20.33,Automatic,e-motor,74 kW and 165 kW electric motors,7.33
+166,Sedan/Wagon,EV6 RWD,2022,Kia,Electric,18.67,23.33,20.33,Automatic,e-motor,125 kW electric motor,7.33
+167,Sedan/Wagon,EV6 RWD (Long Range) ,2022,Kia,Electric,18.67,23.33,20.33,Automatic,e-motor,168 kW electric motor,7.33
+441,Sedan/Wagon,Elantra Hybrid,2021,Hyundai,Hybrid Electric,49.0,52.0,50.0,Automatic,SI,1.6L,4.0
+137,Sedan/Wagon,Elantra Hybrid,2022,Hyundai,Hybrid Electric,49.0,52.0,50.0,Automatic,SI,1.6L,4.0
+442,Sedan/Wagon,Elantra Hybrid Blue,2021,Hyundai,Hybrid Electric,53.0,56.0,54.0,Automatic,SI,1.6L,4.0
+138,Sedan/Wagon,Elantra Hybrid Blue,2022,Hyundai,Hybrid Electric,53.0,56.0,54.0,Automatic,SI,1.6L,4.0
+780,School Bus,Electric CE Series,2022,IC Bus,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+67,SUV,Escalade 2WD,2022,Cadillac,Biodiesel (B20),21.0,27.0,23.0,Automatic,CI,3.0L,6.0
+372,SUV,Escalade 2WD,2021,Cadillac,Biodiesel (B20),21.0,27.0,23.0,Automatic,CI,3.0L,6.0
+68,SUV,Escalade 4WD,2022,Cadillac,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+373,SUV,Escalade 4WD,2021,Cadillac,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+88,Sedan/Wagon,Escape AWD HEV,2022,Ford,Hybrid Electric,43.0,37.0,40.0,Automatic,SI,2.5L I4,4.0
+388,Sedan/Wagon,Escape AWD HEV,2021,Ford,Hybrid Electric,43.0,37.0,40.0,Automatic,SI,2.5L I4,4.0
+389,Sedan/Wagon,Escape FWD HEV,2021,Ford,Hybrid Electric,44.0,37.0,41.0,Automatic,SI,2.5L I4,4.0
+89,Sedan/Wagon,Escape FWD HEV,2022,Ford,Hybrid Electric,44.0,37.0,41.0,Automatic,SI,2.5L I4,4.0
+390,SUV,Escape FWD PHEV,2021,Ford,Plug-in Hybrid Electric,43.0,38.0,40.0,Automatic,SI,2.5L,4.0
+90,SUV,Escape FWD PHEV,2022,Ford,Plug-in Hybrid Electric,43.0,38.0,41.0,Automatic,SI,2.5L,4.0
+391,SUV,Explorer AWD FFV,2021,Ford,Ethanol (E85),16.0,23.0,19.0,Automatic,SI,3.3L,6.0
+91,SUV,Explorer AWD FFV,2022,Ford,Ethanol (E85),16.0,24.0,19.0,Automatic,SI,3.3L,6.0
+92,SUV,Explorer HEV AWD,2022,Ford,Hybrid Electric,23.0,26.0,25.0,Automatic,SI,3.3L V6,6.0
+392,SUV,Explorer HEV AWD,2021,Ford,Hybrid Electric,23.0,26.0,25.0,Automatic,SI,3.3L V6,6.0
+93,SUV,Explorer HEV RWD,2022,Ford,Hybrid Electric,27.0,28.0,27.0,Automatic,SI,3.3L V6,6.0
+393,SUV,Explorer HEV RWD,2021,Ford,Hybrid Electric,27.0,28.0,27.0,Automatic,SI,3.3L V6,6.0
+94,SUV,Explorer Platinum HEV ,2022,Ford,Hybrid Electric,23.0,24.0,23.0,Automatic,SI,3.3L V6,6.0
+95,SUV,Explorer Platinum HEV ,2022,Ford,Hybrid Electric,25.0,25.0,26.0,Automatic,SI,3.3L V6,6.0
+644,Passenger Van/Shuttle Bus,Express 2500/3500,2022,Chevrolet,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+643,Van,Express 2500/3500,2022,Chevrolet,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+642,Van,Express 2500/3500,2022,Chevrolet,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+641,Passenger Van/Shuttle Bus,Express 2500/3500,2022,Chevrolet,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+645,Vocational/Cab Chassis,Express 3500/4500 Cutaway,2022,Chevrolet,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+394,Pickup,F-150 2WD,2021,Ford,Biodiesel (B20),19.67,25.0,22.0,Automatic,CI,3.0L,6.0
+395,Pickup,F-150 2WD FFV,2021,Ford,Ethanol (E85),20.0,24.0,21.0,Automatic,SI,3.3L,6.0
+96,Pickup,F-150 2WD FFV,2022,Ford,Ethanol (E85),19.0,24.0,21.0,Automatic,SI,3.3L,6.0
+396,Pickup,F-150 2WD FFV,2021,Ford,Ethanol (E85),17.0,24.0,20.0,Automatic,SI,5.0L,8.0
+98,Pickup,F-150 2WD FFV - With Start/Stop,2022,Ford,Ethanol (E85),17.0,24.0,20.0,Automatic,SI,5.0L,8.0
+97,Pickup,F-150 2WD FFV - Without Start/Stop,2022,Ford,Ethanol (E85),17.0,24.0,19.0,Automatic,SI,5.0L,8.0
+397,Pickup,F-150 4WD,2021,Ford,Biodiesel (B20),20.0,27.0,23.0,Automatic,CI,3.0L,6.0
+399,Pickup,F-150 4WD FFV,2021,Ford,Ethanol (E85),16.0,22.0,19.0,Automatic,SI,5.0L,8.0
+398,Pickup,F-150 4WD FFV,2021,Ford,Ethanol (E85),19.0,22.0,20.0,Automatic,SI,3.3L,6.0
+99,Pickup,F-150 4WD FFV,2022,Ford,Ethanol (E85),19.0,22.0,20.0,Automatic,SI,3.3L,6.0
+101,Pickup,F-150 4WD FFV - With Start/Stop,2022,Ford,Ethanol (E85),16.0,22.0,19.0,Automatic,SI,5.0L,8.0
+100,Pickup,F-150 4WD FFV - Without Start/Stop,2022,Ford,Ethanol (E85),16.0,22.0,18.0,Automatic,SI,5.0L,8.0
+691,Passenger Van/Shuttle Bus,F-550 Bus,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+692,School Bus,F-59 School Bus,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+693,Passenger Van/Shuttle Bus,F-59 Shuttle Bus,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+694,Step Van,F-59 Step Van,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+695,Vocational/Cab Chassis,F-59 Stripped Chassis,2022,Ford,CNG - Compressed Natural Gas|Propane - Bi-fuel|E85/Hybrid Electric|CNG - Bi-fuel|Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+697,Vocational/Cab Chassis,F-59 Stripped Chassis,2022,Ford,Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+696,Vocational/Cab Chassis,F-59 Stripped Chassis,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+698,Vocational/Cab Chassis,F-650 Box Truck,2022,Ford,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+157,SUV,F-PACE P340 MHEV,2022,Jaguar,Hybrid Electric,20.0,27.0,22.0,Automatic,SI,3.0L,6.0
+455,SUV,F-PACE P340 MHEV,2021,Jaguar,Hybrid Electric,20.0,27.0,22.0,Automatic,SI,3.0L,6.0
+456,SUV,F-PACE P400 MHEV,2021,Jaguar,Hybrid Electric,20.0,26.0,22.0,Automatic,SI,3.0L,6.0
+158,SUV,F-PACE P400 MHEV,2022,Jaguar,Hybrid Electric,19.0,26.0,22.0,Automatic,SI,3.0L,6.0
+102,Pickup,F150 Lightning 4WD,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,358 kW electric motors (x2),7.33
+103,Pickup,F150 Lightning 4WD Extended Range,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,210 kW electric motors (x2),7.33
+104,Pickup,F150 Lightning Platinum 4WD,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,210 kW electric motors (x2),7.33
+400,Pickup,F150 Pickup 2WD HEV,2021,Ford,Hybrid Electric,25.0,26.0,25.0,Automatic,SI,3.5L V6,6.0
+105,Pickup,F150 Pickup 2WD HEV,2022,Ford,Hybrid Electric,25.0,25.0,25.0,Automatic,SI,3.5L V6,6.0
+401,Pickup,F150 Pickup 4WD HEV,2021,Ford,Hybrid Electric,24.0,24.0,24.0,Automatic,SI,3.5L V6,6.0
+106,Pickup,F150 Pickup 4WD HEV,2022,Ford,Hybrid Electric,23.0,23.0,23.0,Automatic,SI,3.5L V6,6.0
+782,Vocational/Cab Chassis,"FTR, FVR",2022,Isuzu,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+38,Sedan/Wagon,Flying Spur Hybrid,2022,Bentley Motors,Plug-in Hybrid Electric,17.0,22.0,19.0,Automatic,SI,2.9L,6.0
+870,Passenger Van/Shuttle Bus,Ford - Odyssey,2022,Turtle Top,Propane|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+871,Passenger Van/Shuttle Bus,Ford - Odyssey XL,2022,Turtle Top,CNG - Compressed Natural Gas|Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+872,Passenger Van/Shuttle Bus,Ford - Terra Transit,2022,Turtle Top,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+874,Passenger Van/Shuttle Bus,Ford - VT3,2022,Turtle Top,Propane|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+873,Passenger Van/Shuttle Bus,Ford - Van Terra,2022,Turtle Top,CNG - Compressed Natural Gas|Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+758,Refuse,"Front Loader: Half/Pack (including Automated), Half/Pack Freedom, Half/Pack Sierra, Half/Pack Low Rider (including Automated)",2022,Heil Environmental,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+810,Refuse,"Front Loaders: Meridian, Atlantic, Contendor - Class 8",2022,McNeilus,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+746,Vocational/Cab Chassis,"G1, G2",2022,Greenkraft,Propane|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+747,Vocational/Cab Chassis,"G3, G4",2022,Greenkraft,Propane|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+231,SUV,GLE 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,20.0,25.0,22.0,Automatic,SI,3.0L,6.0
+230,SUV,GLE 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,20.0,26.0,22.0,Automatic,SI,3.0L,6.0
+512,SUV,GLE 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,3.0L,6.0
+232,SUV,GLE 580 4MATIC,2022,Mercedes-Benz,Hybrid Electric,16.0,21.0,18.0,Automatic,SI,4.0L,8.0
+513,SUV,GLE 580 4MATIC,2021,Mercedes-Benz,Hybrid Electric,17.0,22.0,19.0,Automatic,SI,4.0L,8.0
+233,SUV,GLS 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,18.0,24.0,20.0,Automatic,SI,3.0L,6.0
+514,SUV,GLS 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,20.0,24.0,21.0,Automatic,SI,3.0L,6.0
+234,SUV,GLS 580 4MATIC,2022,Mercedes-Benz,Hybrid Electric,16.0,21.0,18.0,Automatic,SI,4.0L,8.0
+515,SUV,GLS 580 4MATIC,2021,Mercedes-Benz,Hybrid Electric,16.0,21.0,18.0,Automatic,SI,4.0L,8.0
+235,SUV,GLS 600 4MATIC Maybach,2022,Mercedes-Benz,Hybrid Electric,14.0,20.0,17.0,Automatic,SI,4.0L,8.0
+516,SUV,GLS 600 4MATIC Maybach,2021,Mercedes-Benz,Hybrid Electric,15.0,19.0,16.0,Automatic,SI,4.0L,8.0
+462,Sedan/Wagon,"GS-6 (21"" wheels)",2021,Karma,Plug-in Hybrid Electric,27.0,25.0,26.0,Automatic,SI,1.5L,3.0
+159,SUV,Grand Cherokee 4xe,2022,Jeep,Plug-in Hybrid Electric,23.0,24.0,23.0,Automatic,SI,2.0L,4.0
+877,Street Sweeper,HSP,2022,TYMCO,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+569,SUV,Highlander Hybrid,2021,Toyota,Hybrid Electric,36.0,35.0,36.0,Automatic,SI,2.5L,4.0
+287,SUV,Highlander Hybrid,2022,Toyota,Hybrid Electric,36.0,35.0,36.0,Automatic,SI,2.5L,4.0
+288,SUV,Highlander Hybrid AWD,2022,Toyota,Hybrid Electric,35.0,35.0,35.0,Automatic,SI,2.5L,4.0
+570,SUV,Highlander Hybrid AWD,2021,Toyota,Hybrid Electric,35.0,35.0,35.0,Automatic,SI,2.5L,4.0
+289,SUV,Highlander Hybrid AWD LTD/PLAT,2022,Toyota,Hybrid Electric,35.0,34.0,35.0,Automatic,SI,2.5L,4.0
+571,SUV,Highlander Hybrid AWD LTD/PLAT,2021,Toyota,Hybrid Electric,35.0,34.0,35.0,Automatic,SI,2.5L,4.0
+457,SUV,I-PACE EV400,2021,Jaguar,Electric,18.0,23.33,20.0,Automatic,e-motor,unknown,7.33
+583,SUV,ID.4 1st,2021,Volkswagen,Electric,18.0,23.33,20.0,Automatic,e-motor,150 kW electric motor,7.33
+304,SUV,ID.4 AWD Pro,2022,Volkswagen,Electric,18.67,23.33,20.33,Automatic,e-motor,80 and 150 kW electric motors,7.33
+584,SUV,ID.4 AWD Pro,2021,Volkswagen,Electric,18.0,23.33,20.0,Automatic,e-motor,80 and 150 kW electric motors,7.33
+305,SUV,ID.4 AWD Pro S,2022,Volkswagen,Electric,18.67,23.33,20.33,Automatic,e-motor,80 and 150 kW electric motors,7.33
+306,SUV,ID.4 Pro,2022,Volkswagen,Electric,18.67,23.33,20.33,Automatic,e-motor,150 kW electric motor,7.33
+585,SUV,ID.4 Pro,2021,Volkswagen,Electric,18.0,23.33,20.0,Automatic,e-motor,150 kW electric motor,7.33
+307,SUV,ID.4 Pro S,2022,Volkswagen,Electric,18.67,23.33,20.33,Automatic,e-motor,150 kW electric motor,7.33
+586,SUV,ID.4 Pro S,2021,Volkswagen,Electric,18.0,23.33,20.0,Automatic,e-motor,150 kW electric motor,7.33
+587,SUV,ID.4 Pro S AWD ,2021,Volkswagen,Electric,18.0,23.33,20.0,Automatic,e-motor,80 and 150 kW electric motors,7.33
+439,Sedan/Wagon,Insight,2021,Honda,Hybrid Electric,55.0,49.0,52.0,Automatic,SI,1.5L,4.0
+135,Sedan/Wagon,Insight,2022,Honda,Hybrid Electric,55.0,49.0,52.0,Automatic,SI,1.5L,4.0
+440,Sedan/Wagon,Insight Touring,2021,Honda,Hybrid Electric,51.0,45.0,48.0,Automatic,SI,1.5L,4.0
+136,Sedan/Wagon,Insight Touring,2022,Honda,Hybrid Electric,51.0,45.0,48.0,Automatic,SI,1.5L,4.0
+443,Sedan/Wagon,Ioniq,2021,Hyundai,Hybrid Electric,54.0,56.0,55.0,Automatic,SI,1.6L,4.0
+139,Sedan/Wagon,Ioniq,2022,Hyundai,Hybrid Electric,54.0,57.0,55.0,Automatic,SI,1.6L,4.0
+140,SUV,Ioniq 5 AWD (Long Range),2022,Hyundai,Electric,18.67,23.33,20.33,Automatic,e-motor,74 kW and 165 kW electric motors,7.33
+141,SUV,Ioniq 5 RWD,2022,Hyundai,Electric,18.67,23.33,20.33,Automatic,e-motor,125 kW electric motor,7.33
+142,SUV,Ioniq 5 RWD (Long Range),2022,Hyundai,Electric,18.67,23.33,20.33,Automatic,e-motor,168 kW electric motor,7.33
+444,Sedan/Wagon,Ioniq Blue,2021,Hyundai,Hybrid Electric,59.0,60.0,59.0,Automatic,SI,1.6L,4.0
+143,Sedan/Wagon,Ioniq Blue,2022,Hyundai,Hybrid Electric,58.0,60.0,59.0,Automatic,SI,1.6L,4.0
+445,Sedan/Wagon,Ioniq Electric,2021,Hyundai,Electric,18.0,23.33,20.0,Automatic,e-motor,100 kW electric motor,7.33
+446,Sedan/Wagon,Ioniq Plug-in Hybrid,2021,Hyundai,Plug-in Hybrid Electric,52.0,51.0,52.0,Automatic,SI,1.6L,4.0
+144,Sedan/Wagon,Ioniq Plug-in Hybrid,2022,Hyundai,Plug-in Hybrid Electric,52.0,51.0,52.0,Automatic,SI,1.6L,4.0
+809,Transit Bus,J4500e CHARGE - Class 8,2022,MCI,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+632,Transit Bus,K11M (60'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+461,Sedan/Wagon,K27,2021,Kandi,Electric,18.0,23.33,20.0,Automatic,e-motor,20 kW electric motor,7.33
+785,Vocational/Cab Chassis,K270/K370,2022,Kenworth,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+633,Transit Bus,K7M (30'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+634,Transit Bus,K7M ER (30'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+635,Transit Bus,K8M (35'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+636,Transit Bus,K9M (40'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+637,Transit Bus,K9MD (40'),2022,BYD,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+447,SUV,Kona Electric,2021,Hyundai,Electric,18.0,23.33,20.0,Automatic,e-motor,150 kW electric motor,7.33
+145,SUV,Kona Electric,2022,Hyundai,Electric,18.67,23.33,20.33,Automatic,e-motor,150 kW electric motor,7.33
+761,Vocational/Cab Chassis,L6 Conventional,2022,Hino,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+762,Vocational/Cab Chassis,L7 Conventional,2022,Hino,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+192,Sedan/Wagon,LC 500h,2022,Lexus,Hybrid Electric,26.0,34.0,29.0,Automatic,SI,3.5L,6.0
+482,Sedan/Wagon,LC 500h,2021,Lexus,Hybrid Electric,26.0,34.0,29.0,Automatic,SI,3.5L,6.0
+604,Vocational/Cab Chassis,LET2,2022,Battle Motors,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+605,Vocational/Cab Chassis,LET2,2022,Battle Motors,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+606,Vocational/Cab Chassis,LET2 Crew Cab,2022,Battle Motors,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+829,Transit Bus,LFS Artic HEV - Class 8,2022,Nova Bus,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+830,Transit Bus,LFS CNG - Class 8,2022,Nova Bus,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+833,Transit Bus,LFS HEV - Class 8,2022,Nova Bus,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+831,Transit Bus,LFSe,2022,Nova Bus,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+832,Transit Bus,LFSe+,2022,Nova Bus,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+791,Vocational/Cab Chassis,LION6,2022,Lion Electric,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+792,Vocational/Cab Chassis,LION8 - Class 8,2022,Lion Electric,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+793,Refuse,LION8 Refuse ASL and REL - Class 8,2022,Lion Electric,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+794,Tractor,LION8T - Class 8,2022,Lion Electric,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+795,School Bus,LIONA,2022,Lion Electric,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+796,School Bus,LIONC,2022,Lion Electric,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+797,School Bus,LIOND,2022,Lion Electric,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+798,Passenger Van/Shuttle Bus,LIONM,2022,Lion Electric,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+607,Vocational/Cab Chassis,LNT,2022,Battle Motors,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+608,Vocational/Cab Chassis,LNT,2022,Battle Motors,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+801,Refuse,LR,2022,Mack,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+800,Refuse,LR,2022,Mack,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+483,Sedan/Wagon,LS 500h,2021,Lexus,Hybrid Electric,25.0,33.0,28.0,Automatic,SI,3.5L,6.0
+193,Sedan/Wagon,LS 500h AWD,2022,Lexus,Hybrid Electric,22.0,29.0,25.0,Automatic,SI,3.5L,6.0
+484,Sedan/Wagon,LS 500h AWD,2021,Lexus,Hybrid Electric,23.0,29.0,26.0,Automatic,SI,3.5L,6.0
+242,Sedan/Wagon,Leaf (40 kWh battery pack),2022,Nissan,Electric,18.67,23.33,20.33,Automatic,e-motor,110 kW electric motor,7.33
+523,Sedan/Wagon,Leaf (40 kWh battery pack),2021,Nissan,Electric,18.0,23.33,20.0,Automatic,e-motor,110 kW electric motor,7.33
+243,Sedan/Wagon,Leaf (62 kWh battery pack),2022,Nissan,Electric,18.67,23.33,20.33,Automatic,e-motor,160 kW electric motor,7.33
+524,Sedan/Wagon,Leaf (62 kWh battery pack),2021,Nissan,Electric,18.0,23.33,20.0,Automatic,e-motor,160 kW electric motor,7.33
+244,Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2022,Nissan,Electric,18.67,23.33,20.33,Automatic,e-motor,160 kW electric motor,7.33
+525,Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2021,Nissan,Electric,18.0,23.33,20.0,Automatic,e-motor,160 kW electric motor,7.33
+730,Transit Bus,Low Floor Plus,2022,Gillig,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+729,Transit Bus,"Low Floor, Low Floor Plus",2022,Gillig,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+728,Transit Bus,"Low Floor, Low Floor Plus",2022,Gillig,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+720,TractorVocational/Cab Chassis,M2 112 NG,2022,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+361,SUV,M340i,2021,BMW,Hybrid Electric,23.0,32.0,26.0,Automatic,SI,3.0L,6.0
+53,Sedan/Wagon,M340i Sedan,2022,BMW,Hybrid Electric,23.0,32.0,26.0,Automatic,SI,3.0L,6.0
+362,SUV,M340i xDrive,2021,BMW,Hybrid Electric,22.0,31.0,25.0,Automatic,SI,3.0L,6.0
+54,Sedan/Wagon,M340i xDrive Sedan,2022,BMW,Hybrid Electric,23.0,32.0,26.0,Automatic,SI,3.0L,6.0
+733,Street Sweeper,M3EV - Class 7,2022,Global,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+735,Street Sweeper,M4 Hybrid,2022,Global,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+736,Street Sweeper,M4/M4HSD CNG,2022,Global,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+55,Sedan/Wagon,M440i Convertible,2022,BMW,Hybrid Electric,23.0,31.0,26.0,Automatic,SI,3.0L,6.0
+363,Sedan/Wagon,M440i Convertible,2021,BMW,Hybrid Electric,23.0,31.0,26.0,Automatic,SI,3.0L,6.0
+56,Sedan/Wagon,M440i Coupe,2022,BMW,Hybrid Electric,25.0,34.0,28.0,Automatic,SI,3.0L,6.0
+57,Sedan/Wagon,M440i xDrive Convertible,2022,BMW,Hybrid Electric,23.0,31.0,26.0,Automatic,SI,3.0L,6.0
+364,Sedan/Wagon,M440i xDrive Coupe,2021,BMW,Hybrid Electric,22.0,31.0,25.0,Automatic,SI,3.0L,6.0
+58,Sedan/Wagon,M440i xDrive Coupe,2022,BMW,Hybrid Electric,23.0,32.0,26.0,Automatic,SI,3.0L,6.0
+59,Sedan/Wagon,M440i xDrive Gran Coupe,2022,BMW,Hybrid Electric,22.0,29.0,25.0,Automatic,SI,3.0L,6.0
+734,Street Sweeper,M4EV - Class 7,2022,Global,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+737,Street Sweeper,M4ZE/M4HSDZE - Class 7,2022,Global,Hydrogen Fuel Cell,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+857,Street Sweeper,M6 Avalanche,2022,Schwarze Industries,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+721,Vocational/Cab Chassis,MT-45 G Chassis - Class 4,2022,Freightliner Custom Chassis,Propane|CNG - Compressed Natural Gas,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+722,Vocational/Cab Chassis,MT-50e,2022,Freightliner Custom Chassis,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+723,Vocational/Cab Chassis,MT-55 G Chassis,2022,Freightliner Custom Chassis,Propane|CNG - Compressed Natural Gas,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+208,Sedan/Wagon,MX-30,2022,Mazda,Electric,18.67,23.33,20.33,unknown,e-motor,81 kW electric motor,7.33
+769,Transit Bus,Mainstreet,2022,Hometown Manufacturing,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+768,Transit Bus,Mainstreet,2022,Hometown Manufacturing,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+107,Pickup,Maverick Pickup HEV,2022,Ford,Hybrid Electric,42.0,33.0,37.0,Automatic,SI,2.5L V6,4.0
+699,Vocational/Cab Chassis,"Medium Duty Chassis Cab F650, F750",2022,Ford,CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas|Propane|Propane - Bi-fuel,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+700,Vocational/Cab Chassis,"Medium Duty Chassis Cab F650, F750",2022,Ford,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+613,Passenger Van/Shuttle Bus,Micro Bird Activity G5 Electric,2022,Blue Bird,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+614,School Bus,Micro Bird G5 - Class 3,2022,Blue Bird,Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+615,Passenger Van/Shuttle Bus,Micro Bird G5 Activity,2022,Blue Bird,Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+616,School Bus,Micro Bird G5 Electric,2022,Blue Bird,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+861,School Bus,Minotour - Class 4,2022,Thomas Built,CNG - Compressed Natural Gas|Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+862,Passenger Van/Shuttle Bus,Minotour Activity - Class 4,2022,Thomas Built,CNG - Compressed Natural Gas|Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+290,Sedan/Wagon,Mirai LE,2022,Toyota,Hydrogen Fuel Cell,18.67,23.33,20.33,Automatic,FC,134 kW electric motor,7.33
+291,Sedan/Wagon,Mirai Limited,2022,Toyota,Hydrogen Fuel Cell,18.67,23.33,20.33,Automatic,FC,134 kW electric motor,7.33
+572,Sedan/Wagon,Mirai Limited,2021,Toyota,Hydrogen Fuel Cell,18.0,23.33,20.0,Automatic,FC,134 kW electric motor,7.33
+292,Sedan/Wagon,Mirai XLE,2022,Toyota,Hydrogen Fuel Cell,18.67,23.33,20.33,Automatic,FC,134 kW electric motor,7.33
+573,Sedan/Wagon,Mirai XLE,2021,Toyota,Hydrogen Fuel Cell,18.0,23.33,20.0,Automatic,FC,134 kW electric motor,7.33
+269,Sedan/Wagon,Model 3 (Long Range) AWD,2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,98 kW and 195 kW electric motors,7.33
+553,Sedan/Wagon,Model 3 Long Range AWD,2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,131 and 190 kW electric motors,7.33
+270,Sedan/Wagon,Model 3 Performance AWD,2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,131kW and 190 kW electric motors,7.33
+554,Sedan/Wagon,Model 3 Performance AWD,2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,131 and 190 kW electric motors,7.33
+271,Sedan/Wagon,Model 3 RWD,2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,192 kW electric motor,7.33
+555,Sedan/Wagon,Model 3 Standard Range Plus RWD,2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,198 kW electric motor,7.33
+272,Sedan/Wagon,Model S ,2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,247 kW dual electric motors,7.33
+556,Sedan/Wagon,Model S Long Range,2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,179 kW and 186 kW electric motor,7.33
+557,Sedan/Wagon,"Model S Performance (19"" Wheels)",2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,149 kW and 276 kW electric motor,7.33
+273,Sedan/Wagon,"Model S Plaid (19"" Wheels)",2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,250 kW electric motors (X3),7.33
+274,Sedan/Wagon,"Model S Plaid (21"" Wheels)",2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,250 kW electric motors (X3),7.33
+558,Sedan/Wagon,"Model S Plaid (21"" Wheels)",2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,250 kW electric motors (X3),7.33
+275,SUV,Model X AWD,2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,243 and 248 kW electric motors,7.33
+559,SUV,Model X Long Range Plus,2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,180 and 189 kW electric motor,7.33
+560,SUV,"Model X Performance (20"" Wheels)",2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,151 and 273 kW electric motors,7.33
+276,SUV,"Model X Plaid (20"" Wheels)",2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,230kW electric motors (X3),7.33
+277,SUV,"Model X Plaid (22"" Wheels)",2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,230kW electric motors (X3),7.33
+279,SUV,Model Y (Long Range) AWD,2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,91 and 200 kW electric motors,7.33
+278,SUV,Model Y AWD,2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,91 and 200 kW electric motors,7.33
+561,SUV,Model Y Long Range AWD,2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,69 and 201 kW electric motors,7.33
+562,SUV,Model Y Performance AWD,2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,133 and 179 kW electric motors,7.33
+280,SUV,Model Y Performance AWD,2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,133 and 179 kW electric motors,7.33
+281,SUV,Model Y RWD,2022,Tesla,Electric,18.67,23.33,20.33,Automatic,e-motor,209 kW electric motor,7.33
+563,SUV,Model Y Standard Range RWD,2021,Tesla,Electric,18.0,23.33,20.0,Automatic,e-motor,209 kW electric motor,7.33
+402,Sedan/Wagon,Mustang Mach-E AWD,2021,Ford,Electric,18.0,23.33,20.0,Automatic,e-motor,198 kW electric motor,7.33
+108,SUV,Mustang Mach-E AWD,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,198 kW electric motors (x2),7.33
+109,SUV,Mustang Mach-E AWD California Route 1,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,258 kW electric motors (x2),7.33
+110,SUV,Mustang Mach-E AWD Extended,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,258 kW electric motors (x2),7.33
+403,Sedan/Wagon,Mustang Mach-E AWD Extended,2021,Ford,Electric,18.0,23.33,20.0,Automatic,e-motor,209 kW electric motor,7.33
+111,SUV,Mustang Mach-E GT AWD,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,179  kW electric motors (X2),7.33
+405,Sedan/Wagon,Mustang Mach-E GT AWD,2021,Ford,Electric,18.0,23.33,20.0,Automatic,e-motor,179  kW electric motors (X2),7.33
+404,Sedan/Wagon,Mustang Mach-E GT AWD,2021,Ford,Electric,18.0,23.33,20.0,Automatic,e-motor,179  kW electric motors (X2),7.33
+112,SUV,Mustang Mach-E GT Performance,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,179  kW electric motor,7.33
+406,Sedan/Wagon,Mustang Mach-E RWD,2021,Ford,Electric,18.0,23.33,20.0,Automatic,e-motor,198 kW electric motor,7.33
+113,SUV,Mustang Mach-E RWD,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,198 kW electric motor,7.33
+407,Sedan/Wagon,Mustang Mach-E RWD California Route 1,2021,Ford,Electric,18.0,23.33,20.0,Automatic,e-motor,216 kW electric motor,7.33
+114,SUV,Mustang Mach-E RWD California Route 1,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,216 kW electric motor,7.33
+115,SUV,Mustang Mach-E RWD Extended,2022,Ford,Electric,18.67,23.33,20.33,Automatic,e-motor,216 kW electric motor,7.33
+408,Sedan/Wagon,Mustang Mach-E RWD Extended,2021,Ford,Electric,18.0,23.33,20.0,Automatic,e-motor,216 kW electric motor,7.33
+783,Vocational/Cab Chassis,"NPR-HD, NPR-XD, NQR, NRR",2022,Isuzu,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+0,Sedan/Wagon,NSX,2022,Acura,Hybrid Electric,21.0,22.0,21.0,Automatic,SI,3.5L,6.0
+320,Sedan/Wagon,NSX,2021,Acura,Hybrid Electric,21.0,22.0,21.0,Automatic,SI,3.5L,6.0
+485,SUV,NX 300h AWD,2021,Lexus,Hybrid Electric,33.0,30.0,31.0,Automatic,SI,2.5L,4.0
+194,SUV,NX 350h AWD,2022,Lexus,Hybrid Electric,41.0,37.0,39.0,Automatic,SI,2.5L,4.0
+195,SUV,NX 450+ AWD,2022,Lexus,Plug-in Hybrid Electric,38.0,33.0,36.0,Automatic,SI,2.5L,4.0
+179,SUV,New Range Rover P360 LWB MHEV,2022,Land Rover,Hybrid Electric,18.0,26.0,21.0,Automatic,SI,3.0L,6.0
+180,SUV,New Range Rover P360 MHEV,2022,Land Rover,Hybrid Electric,18.0,26.0,21.0,Automatic,SI,3.0L,6.0
+181,SUV,New Range Rover P400 LWB MHEV,2022,Land Rover,Hybrid Electric,18.0,26.0,21.0,Automatic,SI,3.0L,6.0
+182,SUV,New Range Rover P400 MHEV,2022,Land Rover,Hybrid Electric,18.0,26.0,21.0,Automatic,SI,3.0L,6.0
+448,SUV,Nexo,2021,Hyundai,Hydrogen Fuel Cell,18.0,23.33,20.0,Automatic,FC,120 kW electric motor,7.33
+146,SUV,Nexo,2022,Hyundai,Hydrogen Fuel Cell,18.67,23.33,20.33,Automatic,FC,120 kW electric motor,7.33
+449,SUV,Nexo Blue,2021,Hyundai,Hydrogen Fuel Cell,18.0,23.33,20.0,Automatic,FC,120 kW electric motor,7.33
+147,SUV,Nexo Blue,2022,Hyundai,Hydrogen Fuel Cell,18.67,23.33,20.33,Automatic,FC,120 kW electric motor,7.33
+464,Sedan/Wagon,Niro,2021,Kia,Hybrid Electric,51.0,46.0,49.0,Automatic,SI,1.6L,4.0
+168,Sedan/Wagon,Niro,2022,Kia,Hybrid Electric,51.0,46.0,49.0,Automatic,SI,1.6L,4.0
+465,Sedan/Wagon,Niro Electric,2021,Kia,Electric,18.0,23.33,20.0,Automatic,e-motor,150 kW electric motor,7.33
+169,Sedan/Wagon,Niro Electric,2022,Kia,Electric,18.67,23.33,20.33,Automatic,e-motor,150 kW electric motor,7.33
+466,Sedan/Wagon,Niro FE,2021,Kia,Hybrid Electric,53.0,48.0,50.0,Automatic,SI,1.6L,4.0
+170,Sedan/Wagon,Niro FE,2022,Kia,Hybrid Electric,53.0,48.0,50.0,Automatic,SI,1.6L,4.0
+467,Sedan/Wagon,Niro Plug-in Hybrid,2021,Kia,Plug-in Hybrid Electric,48.0,44.0,46.0,Automatic,SI,1.6L,4.0
+171,Sedan/Wagon,Niro Plug-in Hybrid,2022,Kia,Plug-in Hybrid Electric,48.0,44.0,46.0,Automatic,SI,1.6L,4.0
+468,Sedan/Wagon,Niro Touring,2021,Kia,Hybrid Electric,46.0,40.0,43.0,Automatic,SI,1.6L,4.0
+172,Sedan/Wagon,Niro Touring,2022,Kia,Hybrid Electric,46.0,40.0,43.0,Automatic,SI,1.6L,4.0
+827,Street Sweeper,Osprey II sweeper,2022,Nitehawk,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+826,Street Sweeper,Osprey II sweeper,2022,Nitehawk,Propane - Bi-fuel,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+784,Tractor,Ottawa T2E+,2022,Kalmar,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+522,SUV,Outlander PHEV,2021,Mitsubishi,Plug-in Hybrid Electric,26.0,26.0,26.0,Automatic,SI,2.4L,4.0
+241,SUV,Outlander PHEV,2022,Mitsubishi,Plug-in Hybrid Electric,26.0,26.0,26.0,Automatic,SI,2.4L,4.0
+85,Van,Pacifica Hybrid,2022,Chrysler,Plug-in Hybrid Electric,29.0,30.0,30.0,Automatic,SI,3.6L,6.0
+386,Van,Pacifica Hybrid,2021,Chrysler,Plug-in Hybrid Electric,29.0,30.0,30.0,Automatic,SI,3.6L,6.0
+532,Sedan/Wagon,Panamera 4 E-Hybrid,2021,Porsche,Plug-in Hybrid Electric,21.0,24.0,22.0,Automatic,SI,2.9L,6.0
+533,Sedan/Wagon,Panamera 4 E-Hybrid Executive,2021,Porsche,Plug-in Hybrid Electric,21.0,24.0,22.0,Automatic,SI,2.9L,6.0
+249,Sedan/Wagon,Panamera 4 E-Hybrid Executive,2022,Porsche,Plug-in Hybrid Electric,21.0,24.0,22.0,Automatic,SI,2.9L,6.0
+534,Sedan/Wagon,Panamera 4 E-Hybrid ST,2021,Porsche,Plug-in Hybrid Electric,21.0,24.0,22.0,Automatic,SI,2.9L,6.0
+535,Sedan/Wagon,Panamera 4S E-Hybrid,2021,Porsche,Plug-in Hybrid Electric,21.0,23.0,22.0,Automatic,SI,2.9L,6.0
+250,Sedan/Wagon,Panamera 4S E-Hybrid Executive,2022,Porsche,Plug-in Hybrid Electric,21.0,23.0,22.0,Automatic,SI,2.9L,6.0
+536,Sedan/Wagon,Panamera 4S E-Hybrid Executive,2021,Porsche,Plug-in Hybrid Electric,21.0,23.0,22.0,Automatic,SI,2.9L,6.0
+537,Sedan/Wagon,Panamera 4S E-Hybrid ST,2021,Porsche,Plug-in Hybrid Electric,21.0,23.0,22.0,Automatic,SI,2.9L,6.0
+538,Sedan/Wagon,Panamera Turbo S E-Hybrid,2021,Porsche,Plug-in Hybrid Electric,18.0,22.0,19.0,Automatic,SI,4.0L,8.0
+539,Sedan/Wagon,Panamera Turbo S E-Hybrid Executive,2021,Porsche,Plug-in Hybrid Electric,18.0,22.0,19.0,Automatic,SI,4.0L,8.0
+251,Sedan/Wagon,Panamera Turbo S E-Hybrid Executive/ST,2022,Porsche,Plug-in Hybrid Electric,18.0,22.0,19.0,Automatic,SI,4.0L,8.0
+540,Sedan/Wagon,Panamera Turbo S E-Hybrid ST,2021,Porsche,Plug-in Hybrid Electric,18.0,22.0,19.0,Automatic,SI,4.0L,8.0
+657,Street Sweeper,Pelican,2022,Elgin,CNG - Compressed Natural Gas,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+526,Sedan/Wagon,Polestar 2,2021,Polestar Automotive USA,Electric,18.0,23.33,20.0,Automatic,unknown,unknown,7.33
+245,Sedan/Wagon,Polestar 2 (Dual Motor),2022,Polestar Automotive USA,Electric,18.67,23.33,20.33,Automatic,e-motor,150kW electric motors (X2),7.33
+246,Sedan/Wagon,Polestar 2 (Single Motor),2022,Polestar Automotive USA,Electric,18.67,23.33,20.33,Automatic,e-motor,170kW electric motor,7.33
+527,Sedan/Wagon,Polestar I,2021,Polestar Automotive USA,Plug-in Hybrid Electric,22.0,31.0,26.0,Automatic,SI,2.0L,4.0
+574,Sedan/Wagon,Prius,2021,Toyota,Hybrid Electric,54.0,50.0,52.0,Automatic,SI,1.8L,4.0
+293,Sedan/Wagon,Prius,2022,Toyota,Hybrid Electric,54.0,50.0,52.0,Automatic,SI,1.8L,4.0
+575,Sedan/Wagon,Prius AWD,2021,Toyota,Hybrid Electric,51.0,47.0,49.0,Automatic,SI,1.8L,4.0
+294,Sedan/Wagon,Prius AWD,2022,Toyota,Hybrid Electric,51.0,47.0,49.0,Automatic,SI,1.8L,4.0
+576,Sedan/Wagon,Prius Eco,2021,Toyota,Hybrid Electric,58.0,53.0,56.0,Automatic,SI,1.8L,4.0
+295,Sedan/Wagon,Prius Eco,2022,Toyota,Hybrid Electric,58.0,53.0,56.0,Automatic,SI,1.8L,4.0
+296,Sedan/Wagon,Prius Prime,2022,Toyota,Plug-in Hybrid Electric,55.0,53.0,54.0,Automatic,SI,1.8L,4.0
+577,Sedan/Wagon,Prius Prime,2021,Toyota,Plug-in Hybrid Electric,55.0,53.0,54.0,Automatic,unknown,1.8L,4.0
+869,Tractor,Pro Spotter,2022,TICO,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+24,SUV,Q4 e-tron Sportback quattro,2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,80 kW and 150 kW electric motor,7.33
+23,SUV,Q4 e-tron quattro,2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,80 kW and 150 kW electric motor,7.33
+338,SUV,Q5,2021,Audi,Hybrid Electric,23.0,28.0,25.0,Automatic,SI,2.0L,4.0
+339,SUV,Q5,2021,Audi,Plug-in Hybrid Electric,25.0,29.0,27.0,Automatic,SI,2.0L,4.0
+26,SUV,Q5 S line quattro,2022,Audi,Hybrid Electric,23.0,28.0,25.0,Automatic,SI,2.0L,4.0
+340,SUV,Q5 Sportback,2021,Audi,Hybrid Electric,23.0,28.0,25.0,Automatic,SI,2.0L,4.0
+27,SUV,Q5 Sportback S line quattro,2022,Audi,Hybrid Electric,23.0,28.0,25.0,Automatic,SI,2.0L,4.0
+28,Sedan/Wagon,Q5 TFSI e quattro,2022,Audi,Plug-in Hybrid Electric,25.0,27.0,26.0,Automatic,SI,2.0L,4.0
+25,SUV,Q5 quattro,2022,Audi,Hybrid Electric,23.0,28.0,25.0,Automatic,SI,2.0L,4.0
+341,SUV,Q7,2021,Audi,Hybrid Electric,18.0,23.0,20.0,Automatic,SI,3.0L,6.0
+29,SUV,Q7 quattro,2022,Audi,Hybrid Electric,18.0,23.0,20.0,Automatic,SI,3.0L,6.0
+342,SUV,Q8,2021,Audi,Hybrid Electric,18.0,231.0,20.0,Automatic,SI,3.0L,6.0
+30,SUV,Q8 quattro,2022,Audi,Hybrid Electric,18.0,23.0,20.0,Automatic,SI,3.0L,6.0
+267,SUV,R1S,2022,Rivian ,Electric,18.67,23.33,20.33,Automatic,e-motor,"162, 162, 163, 163 kW ",7.33
+268,Pickup,R1T,2022,Rivian ,Electric,18.67,23.33,20.33,Automatic,e-motor,"162, 162, 163, 163 kW ",7.33
+297,SUV,RAV4 Hybrid AWD,2022,Toyota,Hybrid Electric,41.0,38.0,40.0,Automatic,SI,2.5L,4.0
+578,SUV,RAV4 Hybrid AWD,2021,Toyota,Hybrid Electric,41.0,38.0,40.0,Automatic,SI,2.5L,4.0
+579,Sedan/Wagon,RAV4 Prime AWD,2021,Toyota,Plug-in Hybrid Electric,40.0,36.0,38.0,Automatic,unknown,2.5L,4.0
+298,Sedan/Wagon,RAV4 Prime AWD,2022,Toyota,Plug-in Hybrid Electric,40.0,36.0,38.0,Automatic,SI,2.5L,4.0
+31,Sedan/Wagon,RS 6 Avant,2022,Audi,Hybrid Electric,15.0,22.0,17.0,Automatic,SI,4.0L,8.0
+343,Sedan/Wagon,RS 6 Avant,2021,Audi,Hybrid Electric,15.0,22.0,17.0,Automatic,SI,4.0L,8.0
+345,Sedan/Wagon,RS Q8,2021,Audi,Hybrid Electric,13.0,19.0,15.0,Automatic,SI,4.0L,8.0
+34,Sedan/Wagon,RS Q8,2022,Audi,Hybrid Electric,13.0,19.0,15.0,Automatic,SI,4.0L,8.0
+33,SUV,RS e-tron GT,2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,335 kW electric motor,7.33
+32,Sedan/Wagon,RS7,2022,Audi,Hybrid Electric,15.0,22.0,17.0,Automatic,SI,4.0L,8.0
+344,Sedan/Wagon,RS7,2021,Audi,Hybrid Electric,15.0,22.0,17.0,Automatic,SI,4.0L,8.0
+486,SUV,RX 450h AWD,2021,Lexus,Hybrid Electric,31.0,28.0,30.0,Automatic,SI,3.5L,6.0
+196,SUV,RX 450h AWD,2022,Lexus,Hybrid Electric,31.0,28.0,30.0,Automatic,SI,3.5L,6.0
+487,SUV,RX 450h L AWD,2021,Lexus,Hybrid Electric,29.0,28.0,29.0,Automatic,SI,3.5L,6.0
+197,SUV,RX 450h L AWD,2022,Lexus,Hybrid Electric,29.0,28.0,29.0,Automatic,SI,3.5L,6.0
+473,SUV,Range Rover ,2021,Land Rover,Biodiesel (B20),22.0,28.0,24.0,Automatic,CI,3.0L,6.0
+183,SUV,Range Rover Evoque MHEV,2022,Land Rover,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,2.0L,4.0
+474,SUV,Range Rover MHEV,2021,Land Rover,Hybrid Electric,18.0,23.0,20.0,Automatic,CI,3.0L,6.0
+184,SUV,Range Rover P360 MHEV,2022,Land Rover,Hybrid Electric,18.0,23.0,20.0,Automatic,SI,3.0L,6.0
+185,SUV,Range Rover P400 MHEV,2022,Land Rover,Hybrid Electric,18.0,23.0,20.0,Automatic,SI,3.0L,6.0
+475,SUV,Range Rover PHEV,2021,Land Rover,Plug-in Hybrid Electric,18.0,21.0,19.0,Automatic,CI,2.0L,4.0
+476,SUV,Range Rover Sport,2021,Land Rover,Biodiesel (B20),22.0,28.0,24.0,Automatic,CI,3.0L,6.0
+477,SUV,Range Rover Sport MHEV,2021,Land Rover,Hybrid Electric,19.0,24.0,21.0,Automatic,CI,3.0L,6.0
+186,SUV,Range Rover Sport P360 MHEV,2022,Land Rover,Hybrid Electric,19.0,24.0,21.0,Automatic,SI,3.0L,6.0
+187,SUV,Range Rover Sport P400 MHEV,2022,Land Rover,Hybrid Electric,19.0,24.0,21.0,Automatic,SI,3.0L,6.0
+188,SUV,Range Rover Sport PHEV,2022,Land Rover,Plug-in Hybrid Electric,18.0,21.0,19.0,Automatic,CI,2.0L,4.0
+478,SUV,Range Rover Sport PHEV,2021,Land Rover,Plug-in Hybrid Electric,18.0,21.0,20.0,Automatic,CI,2.0L,4.0
+479,SUV,Range Rover Velar P340 MHEV,2021,Land Rover,Hybrid Electric,20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+189,SUV,Range Rover Velar P340 MHEV,2022,Land Rover,Hybrid Electric,20.0,26.0,22.0,Automatic,SI,3.0L,6.0
+190,SUV,Range Rover Velar P400 MHEV,2022,Land Rover,Hybrid Electric,19.0,25.0,21.0,Automatic,SI,3.0L,6.0
+480,SUV,Range Rover Velar P400 MHEV,2021,Land Rover,Hybrid Electric,19.0,25.0,21.0,Automatic,CI,3.0L,6.0
+828,Street Sweeper,Raptor II sweeper,2022,Nitehawk,CNG - Compressed Natural Gas|Propane - Bi-fuel,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+759,Refuse,"Rear Loader: PowerTrak, PowerTrak Commercial, DuraPack 4060 and 5000, PT 1000, Under CDL Mini Rear Loader",2022,Heil Environmental,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+811,Refuse,"Rear Loader: Standard, Heavy Duty, Extra Compaction,Tag Axle, Split Body, M2 - Class 8",2022,McNeilus,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+463,Sedan/Wagon,"Revero GT (21"" wheels)",2021,Karma,Plug-in Hybrid Electric,27.0,25.0,26.0,Automatic,SI,1.5L,3.0
+517,Sedan/Wagon,S 500 4MATIC,2021,Mercedes-Benz,Hybrid Electric,20.0,29.0,24.0,Automatic,SI,3.0L,6.0
+236,Sedan/Wagon,S 500 4MATIC,2022,Mercedes-Benz,Hybrid Electric,21.0,30.0,24.0,Automatic,SI,3.0L,6.0
+518,Sedan/Wagon,S 580 4MATIC,2021,Mercedes-Benz,Hybrid Electric,17.0,25.0,20.0,Automatic,SI,4.0L,8.0
+237,Sedan/Wagon,S 580 4MATIC,2022,Mercedes-Benz,Hybrid Electric,16.0,25.0,19.0,Automatic,SI,4.0L,8.0
+238,Sedan/Wagon,S 580 4MATIC Maybach,2022,Mercedes-Benz,Hybrid Electric,15.0,24.0,18.0,Automatic,SI,4.0L,8.0
+519,Sedan/Wagon,S 580 4MATIC Maybach,2021,Mercedes-Benz,Hybrid Electric,16.0,24.0,19.0,Automatic,SI,4.0L,8.0
+835,Passenger Van/Shuttle Bus,S1 LF Low Floor,2022,Optimal-EV,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+724,Vocational/Cab Chassis,S2G Truck - Class 6,2022,Freightliner Custom Chassis,Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+35,Sedan/Wagon,S6,2022,Audi,Hybrid Electric,18.0,28.0,22.0,Automatic,SI,2.9L,6.0
+346,Sedan/Wagon,S6,2021,Audi,Hybrid Electric,18.0,28.0,22.0,Automatic,SI,2.9L,6.0
+588,Sedan/Wagon,S60 AWD,2021,Volvo,Plug-in Hybrid Electric,28.0,33.0,30.0,Automatic,SI,2.0L,4.0
+309,Sedan/Wagon,S60 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,28.0,33.0,30.0,Automatic,SI,2.0L,4.0
+310,Sedan/Wagon,S60 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,30.0,33.0,31.0,Automatic,SI,2.0L,4.0
+36,Sedan/Wagon,S7,2022,Audi,Hybrid Electric,18.0,28.0,22.0,Automatic,SI,2.9L,6.0
+347,Sedan/Wagon,S7,2021,Audi,Hybrid Electric,18.0,28.0,22.0,Automatic,SI,2.9L,6.0
+37,Sedan/Wagon,S8,2022,Audi,Hybrid Electric,14.0,23.0,17.0,Automatic,SI,4.0L,8.0
+348,Sedan/Wagon,S8,2021,Audi,Hybrid Electric,13.0,22.0,16.0,Automatic,SI,4.0L,8.0
+589,Sedan/Wagon,S90 AWD,2021,Volvo,Plug-in Hybrid Electric,28.0,31.0,30.0,Automatic,SI,2.0L,4.0
+311,Sedan/Wagon,S90 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,28.0,31.0,30.0,Automatic,SI,2.0L,4.0
+312,Sedan/Wagon,S90 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,28.0,31.0,29.0,Automatic,SI,2.0L,4.0
+86,Sedan/Wagon,SF90 Spyder,2022,Ferrari,Plug-in Hybrid Electric,16.0,19.0,17.0,Automatic,SI,3.9L,8.0
+87,Sedan/Wagon,SF90 Stradale ,2022,Ferrari,Plug-in Hybrid Electric,16.0,20.0,18.0,Automatic,SI,3.9L,8.0
+387,Sedan/Wagon,SF90 Stradale Coupe,2021,Ferrari,Plug-in Hybrid Electric,16.0,20.0,18.0,Automatic,SI,3.9L,8.0
+863,Passenger Van/Shuttle Bus,Saf-T-Liner C2 Activity,2022,Thomas Built,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+864,School Bus,Saf-T-Liner C2 Jouley,2022,Thomas Built,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+865,School Bus,Saf-T-Liner HDX - Class 8,2022,Thomas Built,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+866,Passenger Van/Shuttle Bus,Saf-T-Liner HDX Activity - Class 8,2022,Thomas Built,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+450,Sedan/Wagon,Santa Fe Hybrid,2021,Hyundai,Hybrid Electric,33.0,30.0,32.0,Automatic,SI,1.6L,4.0
+148,Sedan/Wagon,Santa Fe Hybrid,2022,Hyundai,Hybrid Electric,33.0,30.0,32.0,Automatic,SI,1.6L,4.0
+451,Sedan/Wagon,Santa Fe Hybrid Blue,2021,Hyundai,Hybrid Electric,36.0,31.0,34.0,Automatic,SI,1.6L,4.0
+149,Sedan/Wagon,Santa Fe Hybrid Blue,2022,Hyundai,Hybrid Electric,36.0,31.0,34.0,Automatic,SI,1.6L,4.0
+150,Sedan/Wagon,Santa Fe Plug-in Hybrid,2022,Hyundai,Plug-in Hybrid Electric,33.0,32.0,33.0,Automatic,SI,1.6L,4.0
+741,Van,Savana 2500/3500,2022,GMC,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+739,Passenger Van/Shuttle Bus,Savana 2500/3500,2022,GMC,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+742,Van,Savana 2500/3500,2022,GMC,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+740,Passenger Van/Shuttle Bus,Savana 2500/3500,2022,GMC,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+743,Vocational/Cab Chassis,Savana 3500/4500 Cutaway,2022,GMC,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+812,Refuse,"Side Loader: AutoReach, Manual/Automated, Zero Radius - Class 8",2022,McNeilus,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+760,Refuse,"Side Loader: Command-SST, DuraPack Python and Rapid Rail, Liberty and MultiPack Automated",2022,Heil Environmental,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+580,Van,Sienna,2021,Toyota,Hybrid Electric,36.0,36.0,36.0,Automatic,SI,2.5L,4.0
+299,Van,Sienna AWD,2022,Toyota,Hybrid Electric,35.0,36.0,35.0,Automatic,SI,2.5L,4.0
+581,Van,Sienna AWD,2021,Toyota,Hybrid Electric,35.0,36.0,35.0,Automatic,SI,2.5L,4.0
+744,Pickup,Sierra 2500/3500 HD,2022,GMC,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+426,Pickup,Sierra 2WD,2021,GMC,Ethanol (E85),15.0,19.0,16.0,Automatic,SI,5.3L,8.0
+425,Pickup,Sierra 2WD,2021,GMC,Biodiesel (B20),23.0,30.0,26.0,Automatic,CI,3.0L,6.0
+122,Pickup,Sierra 2WD,2022,GMC,Ethanol (E85),15.0,19.0,16.0,Automatic,SI,5.3L,8.0
+123,Pickup,Sierra 2WD,2022,GMC,Biodiesel (B20),23.0,30.0,26.0,Automatic,CI,3.0L,6.0
+745,Vocational/Cab Chassis,Sierra 3500 HD Cab Chassis,2022,GMC,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+427,Pickup,Sierra 4WD,2021,GMC,Biodiesel (B20),22.0,26.0,24.0,Automatic,CI,3.0L,6.0
+124,Pickup,Sierra 4WD,2022,GMC,Ethanol (E85),14.0,18.0,16.0,Automatic,SI,5.3L,8.0
+125,Pickup,Sierra 4WD,2022,GMC,Biodiesel (B20),22.0,26.0,24.0,Automatic,CI,3.0L,6.0
+428,Pickup,Sierra 4WD,2021,GMC,Ethanol (E85),14.0,18.0,16.0,Automatic,SI,5.3L,8.0
+127,Pickup,Sierra 4WD - Mud Terrain Tires,2022,GMC,Ethanol (E85),14.0,16.0,15.0,Automatic,SI,5.3L,8.0
+126,Pickup,Sierra 4WD - Mud Terrain Tires,2022,GMC,Biodiesel (B20),20.0,23.0,21.0,Automatic,CI,3.0L,6.0
+429,Pickup,Sierra 4WD AT4,2021,GMC,Biodiesel (B20),22.0,26.0,24.0,Automatic,CI,3.0L,6.0
+75,Pickup,Silverado 2WD,2022,Chevrolet,Biodiesel (B20),23.0,31.0,26.0,Automatic,CI,3.0L,6.0
+74,Pickup,Silverado 2WD,2022,Chevrolet,Ethanol (E85),15.0,19.0,16.0,Automatic,SI,5.3L,8.0
+379,Pickup,Silverado 2WD,2021,Chevrolet,Ethanol (E85),15.0,19.0,16.0,Automatic,SI,5.3L,8.0
+378,Pickup,Silverado 2WD,2021,Chevrolet,Biodiesel (B20),23.0,33.0,27.0,Automatic,CI,3.0L,6.0
+646,Vocational/Cab Chassis,Silverado 3500 HD Cab Chassis,2022,Chevrolet,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+381,Pickup,Silverado 4WD,2021,Chevrolet,Ethanol (E85),14.0,18.0,16.0,Automatic,SI,5.3L,8.0
+380,Pickup,Silverado 4WD,2021,Chevrolet,Biodiesel (B20),22.0,26.0,24.0,Automatic,CI,3.0L,6.0
+78,Pickup,Silverado 4WD,2022,Chevrolet,Biodiesel (B20),22.0,26.0,24.0,Automatic,CI,3.0L,6.0
+76,Pickup,Silverado 4WD,2022,Chevrolet,Ethanol (E85),14.0,16.0,15.0,Automatic,SI,5.3L,8.0
+77,Pickup,Silverado 4WD,2022,Chevrolet,Biodiesel (B20),22.0,26.0,23.0,Automatic,CI,3.0L,6.0
+80,Pickup,Silverado 4WD - Mud Terrain Tires,2022,Chevrolet,Ethanol (E85),14.0,16.0,15.0,Automatic,SI,5.3L,8.0
+79,Pickup,Silverado 4WD - Mud Terrain Tires,2022,Chevrolet,Biodiesel (B20),20.0,23.0,21.0,Automatic,CI,3.0L,6.0
+647,Pickup,Sliverado 2500/3500 HD,2022,Chevrolet,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+151,Sedan/Wagon,Sonata Hybrid,2022,Hyundai,Hybrid Electric,45.0,51.0,47.0,Automatic,SI,2.0L,4.0
+452,Sedan/Wagon,Sonata Hybrid,2021,Hyundai,Hybrid Electric,45.0,51.0,47.0,Automatic,SI,2.0L,4.0
+152,Sedan/Wagon,Sonata Hybrid Blue,2022,Hyundai,Hybrid Electric,50.0,54.0,52.0,Automatic,SI,2.0L,4.0
+453,Sedan/Wagon,Sonata Hybrid Blue,2021,Hyundai,Hybrid Electric,50.0,54.0,52.0,Automatic,SI,2.0L,4.0
+469,SUV,Sorento Hybrid,2021,Kia,Hybrid Electric,39.0,35.0,37.0,Automatic,SI,1.6L,4.0
+173,SUV,Sorento Hybrid AWD,2022,Kia,Hybrid Electric,36.0,33.0,35.0,Automatic,SI,1.6L,4.0
+174,SUV,Sorento Hybrid FWD,2022,Kia,Hybrid Electric,39.0,35.0,37.0,Automatic,SI,1.6L,4.0
+175,SUV,Sorento Plug-in Hybrid,2022,Kia,Plug-in Hybrid Electric,35.0,33.0,34.0,Automatic,SI,1.6L,4.0
+813,Vocational/Cab Chassis,"Standard, Bridgemaster, Oshkosh S-Series - Class 8",2022,McNeilus,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+771,Passenger Van/Shuttle Bus,Streetcar,2022,Hometown Manufacturing,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+770,Transit Bus,Streetcar,2022,Hometown Manufacturing,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+772,Transit Bus,Streetcar,2022,Hometown Manufacturing,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+382,SUV,Suburban 2WD,2021,Chevrolet,Biodiesel (B20),21.0,27.0,23.0,Automatic,CI,3.0L,6.0
+81,SUV,Suburban 2WD,2022,Chevrolet,Biodiesel (B20),21.0,27.0,23.0,Automatic,CI,3.0L,6.0
+82,SUV,Suburban 4WD,2022,Chevrolet,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+383,SUV,Suburban 4WD,2021,Chevrolet,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+701,Vocational/Cab Chassis,Super Duty Chassis Cab F350,2022,Ford,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+703,Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",2022,Ford,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+702,Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",2022,Ford,Propane - Bi-fuel|Propane|CNG - Compressed Natural Gas|CNG - Bi-fuel,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+704,Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",2022,Ford,Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+409,Pickup,Super Duty F-250,2021,Ford,Ethanol (E85),16.33,22.67,18.67,Automatic,SI,7.3L,8.0
+410,Pickup,Super Duty F-250 2WD/4WD,2021,Ford,CNG - Bi-fuel,16.33,22.67,18.67,Automatic,SI,7.3L,8.0
+411,Pickup,Super Duty F-250 2WD/4WD,2021,Ford,Biodiesel (B20),16.33,22.67,18.67,Automatic,CI,6.7L,8.0
+412,Pickup,Super Duty F-250 2WD/4WD,2021,Ford,CNG - Compressed Natural Gas,16.33,22.67,18.67,Automatic,SI,7.3L,8.0
+413,Pickup,Super Duty F-250 2WD/4WD,2021,Ford,Propane - Bi-fuel,16.33,22.67,18.67,Automatic,SI,7.3L,8.0
+414,Pickup,Super Duty F-250 2WD/4WD,2021,Ford,Propane,16.33,22.67,18.67,Automatic,SI,7.3L,8.0
+706,Pickup,"Super Duty F250, F350, F450",2022,Ford,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+705,Pickup,"Super Duty F250, F350, F450",2022,Ford,CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas|Propane|Propane - Bi-fuel,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+707,Pickup,"Super Duty F250, F350, F450",2022,Ford,Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+708,Pickup,"Super Duty F250, F350, F450",2022,Ford,Plug-in Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+836,Tractor,T Series terminal,2022,Orange EV,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+786,Vocational/Cab Chassis,T180/T280,2022,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+787,Tractor,T680,2022,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+788,Tractor,T680E,2022,Kenworth,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+790,Vocational/Cab Chassis,T880,2022,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+789,Tractor,T880,2022,Kenworth,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+300,Pickup,TUNDRA 2WD,2022,Toyota,Hybrid Electric,20.0,24.0,22.0,Automatic,SI,3.4L,6.0
+301,Pickup,TUNDRA 4WD,2022,Toyota,Hybrid Electric,19.0,22.0,20.0,Automatic,SI,3.4L,6.0
+302,Pickup,TUNDRA 4WD PRO,2022,Toyota,Hybrid Electric,18.0,20.0,19.0,Automatic,SI,3.4L,6.0
+384,SUV,Tahoe 2WD,2021,Chevrolet,Biodiesel (B20),21.0,28.0,24.0,Automatic,CI,3.0L,6.0
+83,SUV,Tahoe 2WD,2022,Chevrolet,Biodiesel (B20),21.0,28.0,24.0,Automatic,CI,3.0L,6.0
+385,SUV,Tahoe 4WD,2021,Chevrolet,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+84,SUV,Tahoe 4WD,2022,Chevrolet,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+252,Sedan/Wagon,Taycan 4 Cross Turismo,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,175 and 320 kW electric motors,7.33
+253,Sedan/Wagon,Taycan 4S Cross Turismo,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,175 and 320 kW electric motors,7.33
+541,Sedan/Wagon,Taycan 4S Perf Battery,2021,Porsche,Electric,18.0,23.33,20.0,Automatic,e-motor,194 and 280 kW electric motors,7.33
+254,Sedan/Wagon,Taycan 4S Perf Battery,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,150 and 270 kW electric motors,7.33
+255,Sedan/Wagon,Taycan 4S Perf Battery Plus,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,175 and 320 kW electric motors,7.33
+542,Sedan/Wagon,Taycan 4S Perf Battery Plus,2021,Porsche,Electric,18.0,23.33,20.0,Automatic,e-motor,210 and 250 kW electric motors,7.33
+543,Sedan/Wagon,Taycan Perf Battery,2021,Porsche,Electric,18.0,23.33,20.0,Automatic,e-motor,240 kW electric motor,7.33
+256,Sedan/Wagon,Taycan Perf Battery,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,240 kW electric motor,7.33
+257,Sedan/Wagon,Taycan Perf Battery Plus,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,280 kW electric motor,7.33
+544,Sedan/Wagon,Taycan Perf Battery Plus,2021,Porsche,Electric,18.0,23.33,20.0,Automatic,e-motor,280 kW electric motor,7.33
+545,Sedan/Wagon,Taycan Turbo,2021,Porsche,Electric,18.0,23.33,20.0,Automatic,e-motor,unknown,7.33
+258,Sedan/Wagon,Taycan Turbo,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,170 and 335 kW electric motors,7.33
+259,Sedan/Wagon,Taycan Turbo Cross Turismo,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,175 and 355 kW electric motors,7.33
+546,Sedan/Wagon,Taycan Turbo S,2021,Porsche,Electric,18.0,23.33,20.0,Automatic,e-motor,unknown,7.33
+260,Sedan/Wagon,Taycan Turbo S,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,190 and 335 kW electric motors,7.33
+261,Sedan/Wagon,Taycan Turbo S Cross Turismo,2022,Porsche,Electric,18.67,23.33,20.33,Automatic,e-motor,175 and 355 kW electric motors,7.33
+802,Vocational/Cab Chassis,TerraPro Cab Over,2022,Mack,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+803,Refuse,TerraPro Cab Over,2022,Mack,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+711,Van,Transit 250/350 Cargo Van,2022,Ford,Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+710,Van,Transit 250/350 Cargo Van,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+709,Van,Transit 250/350 Cargo Van,2022,Ford,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+713,Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,2022,Ford,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+714,Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,2022,Ford,Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+712,Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+716,Vocational/Cab Chassis,"Transit CC-CA 250, 350",2022,Ford,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+715,Vocational/Cab Chassis,"Transit CC-CA 250, 350",2022,Ford,Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+415,Van,Transit Connect Van FFV,2021,Ford,Ethanol (E85),24.0,27.0,25.0,Automatic,SI,2.0L,4.0
+116,Van,Transit Connect Van FFV,2022,Ford,Ethanol (E85),24.0,27.0,25.0,Automatic,SI,2.0L,4.0
+416,Van,Transit Connect Van/Wagon,2021,Ford,Propane - Bi-fuel,23.67,30.67,26.33,Automatic,SI,2.5L,4.0
+418,Van,Transit Connect Van/Wagon,2021,Ford,CNG - Bi-fuel,23.67,30.67,26.33,Automatic,SI,2.5L,4.0
+419,Van,Transit Connect Van/Wagon,2021,Ford,Propane,23.67,30.67,26.33,Automatic,SI,2.5L,4.0
+417,Van,Transit Connect Van/Wagon,2021,Ford,CNG - Compressed Natural Gas,23.67,30.67,26.33,Automatic,SI,2.5L,4.0
+420,Passenger Van/Shuttle Bus,Transit Connect Wagon LWB FFV,2021,Ford,Ethanol (E85),24.0,29.0,26.0,Automatic,SI,2.0L,4.0
+117,Passenger Van/Shuttle Bus,Transit Connect Wagon LWB FFV,2022,Ford,Ethanol (E85),24.0,28.0,26.0,Automatic,SI,2.0L,4.0
+717,Vocational/Cab Chassis,Transit Cutaway/Chassis Cab,2022,Ford,Ethanol (E85),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+421,Passenger Van/Shuttle Bus,Transit T150 Passenger Van 2WD FFV,2021,Ford,Ethanol (E85),14.0,18.0,16.0,Automatic,SI,3.5L,7.33
+118,Van,Transit T150 Passenger Van 2WD FFV,2022,Ford,Ethanol (E85),15.0,19.0,17.0,Automatic,SI,3.5L,8.0
+422,Passenger Van/Shuttle Bus,Transit T150 Passenger Van 4WD FFV,2021,Ford,Ethanol (E85),15.0,19.0,16.0,Automatic,SI,3.5L,7.33
+119,Van,Transit T150 Passenger Van 4WD FFV,2022,Ford,Ethanol (E85),14.0,18.0,16.0,Automatic,SI,3.5L,8.0
+867,Passenger Van/Shuttle Bus,Transit-Liner C2,2022,Thomas Built,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+868,Passenger Van/Shuttle Bus,Transit-Liner HDX,2022,Thomas Built,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+732,Transit Bus,Trolley,2022,Gillig,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+731,Transit Bus,Trolley,2022,Gillig,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+153,Sedan/Wagon,Tucson Hybrid,2022,Hyundai,Hybrid Electric,37.0,36.0,37.0,Automatic,SI,1.6L,4.0
+154,Sedan/Wagon,Tucson Hybrid Blue,2022,Hyundai,Hybrid Electric,38.0,38.0,38.0,Automatic,SI,1.6L,4.0
+155,SUV,Tucson Plug-in Hybrid,2022,Hyundai,Plug-in Hybrid Electric,35.0,35.0,35.0,Automatic,SI,1.6L,4.0
+651,School Bus,Type A Electric School Bus (DE516),2022,Collins Bus Corp.,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+652,School Bus,Type A Electric School Bus (DE516WF),2022,Collins Bus Corp.,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+198,Sedan/Wagon,UX 250h,2022,Lexus,Hybrid Electric,43.0,41.0,42.0,Automatic,SI,2.0L,4.0
+488,Sedan/Wagon,UX 250h,2021,Lexus,Hybrid Electric,43.0,41.0,42.0,Automatic,SI,2.0L,4.0
+489,Sedan/Wagon,UX 250h AWD,2021,Lexus,Hybrid Electric,41.0,38.0,39.0,Automatic,SI,2.0L,4.0
+199,Sedan/Wagon,UX 250h AWD,2022,Lexus,Hybrid Electric,41.0,38.0,39.0,Automatic,SI,2.0L,4.0
+773,Transit Bus,Urban,2022,Hometown Manufacturing,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+774,Transit Bus,Urban,2022,Hometown Manufacturing,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+590,SUV,V60 AWD,2021,Volvo,Plug-in Hybrid Electric,28.0,33.0,30.0,Automatic,SI,2.0L,4.0
+313,Sedan/Wagon,V60 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,28.0,33.0,30.0,Automatic,SI,2.0L,4.0
+314,Sedan/Wagon,V60 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,30.0,33.0,31.0,Automatic,SI,2.0L,4.0
+880,Tractor,VNR Electric - Class 8,2022,Volvo,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+303,SUV,Venza AWD,2022,Toyota,Hybrid Electric,40.0,37.0,39.0,Automatic,SI,2.5L,4.0
+582,SUV,Venza AWD,2021,Toyota,Hybrid Electric,40.0,37.0,39.0,Automatic,SI,2.5L,4.0
+776,Transit Bus,View,2022,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+775,Transit Bus,View,2022,Hometown Manufacturing,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+778,Passenger Van/Shuttle Bus,Villager,2022,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+777,Passenger Van/Shuttle Bus,Villager,2022,Hometown Manufacturing,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+617,School Bus,Vision - Class 7,2022,Blue Bird,Propane,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+618,Passenger Van/Shuttle Bus,Vision Activity,2022,Blue Bird,Propane|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+619,School Bus,Vision Electric,2022,Blue Bird,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+620,Passenger Van/Shuttle Bus,Vision Electric Activity,2022,Blue Bird,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+160,SUV,Wagoneer 4x2,2022,Jeep,Hybrid Electric,16.0,22.0,18.0,Automatic,SI,5.7L,8.0
+161,SUV,Wagoneer 4x4,2022,Jeep,Hybrid Electric,15.0,20.0,17.0,Automatic,SI,5.7L,8.0
+458,SUV,Wrangler 2dr 4x4,2021,Jeep,Hybrid Electric,20.0,24.0,21.0,Automatic,SI,3.6L,6.0
+162,SUV,Wrangler 2dr 4x4,2022,Jeep,Hybrid Electric,20.0,24.0,21.0,Automatic,SI,3.6L,6.0
+459,SUV,Wrangler 4dr 4x4,2021,Jeep,Hybrid Electric,19.0,24.0,21.0,Automatic,SI,3.6L,6.0
+163,SUV,Wrangler 4dr 4x4,2022,Jeep,Hybrid Electric,19.0,24.0,21.0,Automatic,SI,3.6L,6.0
+460,SUV,Wrangler 4dr 4xe,2021,Jeep,Plug-in Hybrid Electric,20.0,20.0,20.0,Automatic,SI,2.0L,4.0
+164,SUV,Wrangler 4dr 4xe,2022,Jeep,Plug-in Hybrid Electric,20.0,20.0,20.0,Automatic,SI,2.0L,4.0
+60,SUV,X3 M40i,2022,BMW,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,3.0L,6.0
+365,SUV,X3 xDrive30e,2021,BMW,Plug-in Hybrid Electric,21.0,27.0,24.0,Automatic,SI,2.0L,4.0
+61,SUV,X4 M40i,2022,BMW,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,3.0L,6.0
+62,SUV,X5 sDrive40i,2022,BMW,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,3.0L,6.0
+366,SUV,X5 sDrive40i 2WD,2021,BMW,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,3.0L,6.0
+367,SUV,X5 sDrive40i 4WD,2021,BMW,Hybrid Electric,21.0,25.0,23.0,Automatic,SI,3.0L,6.0
+63,SUV,X5 xDrive40i,2022,BMW,Hybrid Electric,21.0,25.0,23.0,Automatic,SI,3.0L,6.0
+64,SUV,X5 xDrive45e,2022,BMW,Plug-in Hybrid Electric,19.0,22.0,20.0,Automatic,SI,3.0L,6.0
+368,SUV,X5 xDrive45e,2021,BMW,Plug-in Hybrid Electric,19.0,22.0,20.0,Automatic,SI,3.0L,6.0
+369,SUV,X6 sDrive40i 2WD,2021,BMW,Hybrid Electric,21.0,26.0,23.0,Automatic,SI,3.0L,6.0
+370,SUV,X6 sDrive40i 4WD,2021,BMW,Hybrid Electric,21.0,25.0,23.0,Automatic,SI,3.0L,6.0
+65,SUV,X6 xDrive40i,2022,BMW,Hybrid Electric,21.0,25.0,23.0,Automatic,SI,3.0L,6.0
+371,SUV,X7 sDrive40i 4WD,2021,BMW,Hybrid Electric,19.0,24.0,21.0,Automatic,SI,3.0L,6.0
+66,SUV,X7 xDrive40i,2022,BMW,Hybrid Electric,19.0,24.0,21.0,Automatic,SI,3.0L,6.0
+591,SUV,XC40 Recharge,2021,Volvo,Electric,18.0,23.33,20.0,Automatic,unknown,unknown,7.33
+315,SUV,XC40 Recharge Twin,2022,Volvo,Electric,18.67,23.33,20.33,Automatic,e-motor,150kW electric motor,7.33
+592,SUV,XC60 AWD,2021,Volvo,Plug-in Hybrid Electric,26.0,28.0,27.0,Automatic,SI,2.0L,4.0
+316,SUV,XC60 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,24.0,27.0,25.0,Automatic,SI,2.0L,4.0
+317,SUV,XC60 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,28.0,28.0,28.0,Automatic,SI,2.0L,4.0
+593,SUV,XC90 AWD,2021,Volvo,Plug-in Hybrid Electric,26.0,28.0,27.0,Automatic,SI,2.0L,4.0
+318,SUV,XC90 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,26.0,28.0,27.0,Automatic,SI,2.0L,4.0
+319,SUV,XC90 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,25.0,27.0,26.0,Automatic,SI,2.0L,4.0
+674,Transit Bus,XHF 29',2022,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+675,Transit Bus,XHF 33',2022,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+676,Transit Bus,XHF 35',2022,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+677,Transit Bus,XHF 40',2022,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+763,TractorVocational/Cab Chassis,XL7 Conventional,2022,Hino,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+764,TractorVocational/Cab Chassis,XL8 Conventional,2022,Hino,Biodiesel (B20),25.9,30.09,27.26,unknown,unknown,unknown,5.45
+815,Transit Bus,Xcelsior 35',2022,New Flyer,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+816,Transit Bus,Xcelsior 35',2022,New Flyer,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+817,Transit Bus,Xcelsior 40',2022,New Flyer,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+818,Transit Bus,Xcelsior 40',2022,New Flyer,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+819,Transit Bus,Xcelsior 60',2022,New Flyer,Diesel/Hybrid Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+820,Transit Bus,Xcelsior 60',2022,New Flyer,CNG - Compressed Natural Gas,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+821,Transit Bus,Xcelsior CHARGE 35',2022,New Flyer,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+822,Transit Bus,Xcelsior CHARGE 40',2022,New Flyer,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+823,Transit Bus,Xcelsior CHARGE 60',2022,New Flyer,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+824,Transit Bus,Xcelsior CHARGE H2 40',2022,New Flyer,Hydrogen Fuel Cell,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+825,Transit Bus,Xcelsior CHARGE H2 60',2022,New Flyer,Hydrogen Fuel Cell,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+128,SUV,Yukon 2WD,2022,GMC,Biodiesel (B20),21.0,27.0,23.0,Automatic,CI,3.0L,6.0
+430,SUV,Yukon 2WD,2021,GMC,Biodiesel (B20),21.0,27.0,23.0,Automatic,CI,3.0L,6.0
+129,SUV,Yukon 4WD,2022,GMC,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+431,SUV,Yukon 4WD,2021,GMC,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+130,SUV,Yukon XL 2WD,2022,GMC,Biodiesel (B20),21.0,27.0,23.0,Automatic,CI,3.0L,6.0
+432,SUV,Yukon XL 2WD,2021,GMC,Biodiesel (B20),21.0,27.0,23.0,Automatic,CI,3.0L,6.0
+131,SUV,Yukon XL 4WD,2022,GMC,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+433,SUV,Yukon XL 4WD,2021,GMC,Biodiesel (B20),20.0,26.0,22.0,Automatic,CI,3.0L,6.0
+848,Transit Bus,ZX5 35-Foot Bus - Class 8,2022,Proterra,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+850,Transit Bus,ZX5 40-Foot Bus - Class 8,2022,Proterra,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+849,Transit Bus,ZX5+ 35-Foot Bus - Class 8,2022,Proterra,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+851,Transit Bus,ZX5+ 40-Foot Bus - Class 8,2022,Proterra,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+852,Transit Bus,ZX5MAX 40-Foot Bus - Class 8,2022,Proterra,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+738,Van,Zevo 600,2022,GM BrightDrop,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+336,SUV,e-tron,2021,Audi,Electric,18.0,23.33,20.0,Automatic,e-motor,141 kW and 172 kW electric motor,7.33
+16,Sedan/Wagon,e-tron GT,2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,175 kW electric motor,7.33
+18,SUV,"e-tron S (20"" wheels)",2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,138kW electric motor,7.33
+19,SUV,"e-tron S (21"" or 22"" wheels)",2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,138kW electric motor,7.33
+21,SUV,"e-tron S Sportback (20"" wheels)",2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,138kW electric motor,7.33
+22,SUV,"e-tron S Sportback (21"" or 22"" wheels)",2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,157kW electric motor,7.33
+337,SUV,e-tron Sportback,2021,Audi,Electric,18.0,23.33,20.0,Automatic,e-motor,141 kW and 172 kW electric motor,7.33
+20,SUV,e-tron Sportback quattro,2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,141 kW and 172 kW electric motor,7.33
+17,SUV,e-tron quattro,2022,Audi,Electric,18.67,23.33,20.33,Automatic,e-motor,141 kW and 172 kW electric motor,7.33
+648,Transit Bus,e.COBUS 2700,2022,COBUS Industries,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+649,Transit Bus,e.COBUS 2700S,2022,COBUS Industries,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+650,Transit Bus,e.COBUS 3000,2022,COBUS Industries,Electric,25.9,30.09,27.26,unknown,unknown,unknown,5.45
+725,Vocational/Cab Chassis,eCanter,2022,FUSO,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+781,Vocational/Cab Chassis,eMV,2022,International,Electric,25.9,30.09,27.26,Automatic,unknown,unknown,5.45
+357,Sedan/Wagon,i3,2021,BMW,Electric,18.0,23.33,20.0,Automatic,e-motor,125 kW electric motor,7.33
+360,Sedan/Wagon,i3 with Range Extender,2021,BMW,Plug-in Hybrid Electric,30.0,31.0,31.0,Automatic,SI,125 kW,7.33
+358,Sedan/Wagon,i3s,2021,BMW,Electric,18.0,23.33,20.0,Automatic,e-motor,135 kW electric motor,7.33
+359,Sedan/Wagon,i3s with Range Extender,2021,BMW,Plug-in Hybrid Electric,30.0,31.0,31.0,Automatic,SI,135 kW,7.33
+48,Sedan/Wagon,"i4 M50 Gran Coupe (19"" Wheels) ",2022,BMW,Electric,18.67,23.33,20.33,Automatic,e-motor,190 and 230 kW electric motors,7.33
+49,Sedan/Wagon,"i4 M50 Gran Coupe (20"" Wheels) ",2022,BMW,Electric,18.67,23.33,20.33,Automatic,e-motor,190 and 230 kW electric motors,7.33
+46,Sedan/Wagon,"i4 eDrive40 Gran Coupe (18"" Wheels) ",2022,BMW,Electric,18.67,23.33,20.33,Automatic,e-motor,250 kW electric motor,7.33
+47,Sedan/Wagon,"i4 eDrive40 Gran Coupe (19"" Wheels) ",2022,BMW,Electric,18.67,23.33,20.33,Automatic,e-motor,250 kW electric motor,7.33
+50,SUV,"iX xDrive50 (20"" Wheels) ",2022,BMW,Electric,18.67,23.33,20.33,Automatic,e-motor,190 and 230 kW electric motors,7.33
+51,SUV,"iX xDrive50 (21"" Wheels) ",2022,BMW,Electric,18.67,23.33,20.33,Automatic,e-motor,190 and 230 kW electric motors,7.33
+52,SUV,"iX xDrive50 (22"" Wheels) ",2022,BMW,Electric,18.67,23.33,20.33,Automatic,e-motor,190 and 230 kW electric motors,7.33
