@@ -9,15 +9,28 @@ Este proyecto se enfoca en analizar el impacto de los taxis y servicios de viaje
 
 Stack Tecnológico 🛠️
 Google Cloud Platform: Para almacenamiento de datos, procesamiento y análisis (BigQuery, Dataflow, Cloud Storage).
+
 Python: Limpieza y análisis de datos (Pandas, NumPy), modelado estadístico (Scikit-learn).
-Vertex AI: Para modelado avanzado de machine learning.
+
+Google Cloud Function: Para el deployment de los modelos de machine learning.
+
 Google Data Studio: Para visualizaciones y dashboards interactivos.
+
 Estructura del Repositorio 📂
-/data: Datos brutos y procesados.
-/notebooks: Jupyter notebooks con análisis exploratorio de datos.
-/src: Código fuente para procesamiento y análisis de datos.
-/docs: Documentación adicional y recursos.
+
+# /Datasets: Datos brutos y procesados.
+
+# /ETL: Jupyter notebooks con análisis exploratorio de datos y el ETL de los datos.
+
+# /Modelos_IA: 
+  # DatosUsados : datasets usados para el entrenamiento y analisis del rendimiento de los modelos
+  # JupiterNotebooks : Jupyternotebooks con todos los procesos que requirieron los modelos
+  # Modelos : Contiene los modelos finales
+
+# /dataset_Iniciales: Datasets iniciales si procesar
+
 Cómo Contribuir 👥
+
 Estamos abiertos a contribuciones. Si tienes ideas para mejorar el análisis o las visualizaciones, por favor:
 
 Haz un fork del repositorio.
@@ -33,8 +46,20 @@ Copy code
 git clone [URL del repositorio]
 cd nyc-taxis-co2
 # instalar dependencias, configurar entorno, etc.
-Autores y Reconocimientos 🌟
-Lista de contribuyentes al proyecto.
+
+# Autores y Reconocimientos 🌟:
+
+# Data science (ETL y ML):
+Pablo Andres Klein
+Juan Ramón Perales Sosa
+
+# Data Analysis (EDA, dashboards y presentaciones) :
+Kevin Lisandro Villareal
+Santiago Aguilar
+
+# Data Engineering (Google Cloud):
+Omar Baruch Avelino Gutierrez
+
 Agradecimientos a colaboradores, instituciones, etc.
 Licencia 📄
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles.
