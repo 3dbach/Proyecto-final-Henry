@@ -1,0 +1,17 @@
+,Nombre de la Columna,Descripción
+0,date,Fecha y hora
+1,pm10,Concentración de partículas PM10 (µg/m³)
+2,pm2_5,Concentración de partículas PM2.5 (µg/m³)
+3,carbon_monoxide,Concentración de monóxido de carbono (µg/m³)
+4,nitrogen_dioxide,Concentración de dióxido de nitrógeno (µg/m³)
+5,sulphur_dioxide,Concentración de dióxido de azufre (µg/m³)
+6,ozone,Concentración de ozono (µg/m³)
+7,uv_index,Índice UV
+8,uv_index_clear_sky,Índice UV en cielo despejado
+9,us_aqi,Índice de Calidad del Aire (US AQI)
+10,us_aqi_pm2_5,Índice de Calidad del Aire para PM2.5 (US AQI)
+11,us_aqi_pm10,Índice de Calidad del Aire para PM10 (US AQI)
+12,us_aqi_nitrogen_dioxide,Índice de Calidad del Aire para dióxido de nitrógeno (US AQI)
+13,us_aqi_carbon_monoxide,Índice de Calidad del Aire para monóxido de carbono (US AQI)
+14,us_aqi_ozone,Índice de Calidad del Aire para ozono (US AQI)
+15,us_aqi_sulphur_dioxide,Índice de Calidad del Aire para dióxido de azufre (US AQI)

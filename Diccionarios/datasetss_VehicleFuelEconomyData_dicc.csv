@@ -1,0 +1,71 @@
+,Nombre de la Columna,Descripción
+0,Year,Año del vehículo
+1,Manufacturer,Fabricante del vehículo
+2,Model,Modelo del vehículo
+3,barrels08,Consumo anual de barriles de combustible (gasolina)
+4,barrelsA08,Consumo anual de barriles de combustible (combustible alternativo)
+5,charge240,Consumo de electricidad a 240V
+6,city08,Consumo de combustible en ciudad (gasolina)
+7,city08U,Consumo de combustible en ciudad ajustado (gasolina)
+8,cityA08,Consumo de combustible en ciudad (combustible alternativo)
+9,cityA08U,Consumo de combustible en ciudad ajustado (combustible alternativo)
+10,cityCD,Consumo de combustible en ciudad (consumo de diesel)
+11,cityE,Consumo de electricidad en ciudad
+12,cityUF,Consumo de combustible en ciudad ajustado (consumo de diesel)
+13,co2,Emisiones de CO2 en gramos por milla
+14,co2A,Emisiones de CO2 en gramos por milla (combustible alternativo)
+15,co2TailpipeAGpm,Emisiones de CO2 de la cola del escape en gramos por milla (combustible alternativo)
+16,co2TailpipeGpm,Emisiones de CO2 de la cola del escape en gramos por milla
+17,comb08,Consumo de combustible combinado (gasolina)
+18,comb08U,Consumo de combustible combinado ajustado (gasolina)
+19,combA08,Consumo de combustible combinado (combustible alternativo)
+20,combA08U,Consumo de combustible combinado ajustado (combustible alternativo)
+21,combE,Consumo de electricidad combinado
+22,combinedCD,Consumo de combustible combinado (consumo de diesel)
+23,combinedUF,Consumo de combustible combinado ajustado (consumo de diesel)
+24,cylinders,Número de cilindros
+25,displ,Desplazamiento del motor en litros
+26,drive,Tipo de tracción
+27,engId,ID del motor
+28,eng_dscr,Descripción del motor
+29,feScore,Puntuación de eficiencia de combustible
+30,fuelCost08,Costo anual de combustible (gasolina)
+31,fuelCostA08,Costo anual de combustible (combustible alternativo)
+32,fuelType,Tipo de combustible
+33,fuelType1,Tipo de combustible 1
+34,ghgScore,Puntuación de emisiones de gases de efecto invernadero
+35,ghgScoreA,Puntuación de emisiones de gases de efecto invernadero (combustible alternativo)
+36,highway08,Consumo de combustible en carretera (gasolina)
+37,highway08U,Consumo de combustible en carretera ajustado (gasolina)
+38,highwayA08,Consumo de combustible en carretera (combustible alternativo)
+39,highwayA08U,Consumo de combustible en carretera ajustado (combustible alternativo)
+40,VClass,Clase de vehículo
+41,highwayCD,Consumo de combustible en carretera (consumo de diesel)
+42,highwayE,Consumo de electricidad en carretera
+43,highwayUF,Consumo de combustible en carretera ajustado (consumo de diesel)
+44,hlv,Vehículos de carga ligera
+45,hpv,Vehículos de carga pesada
+46,id,ID único del vehículo
+47,lv2,Nivel de baja contaminación de emisiones (Bin 2)
+48,lv4,Nivel de baja contaminación de emisiones (Bin 4)
+49,mpgData,Fuente de datos de consumo de combustible en millas por galón
+50,phevBlended,Vehículo híbrido enchufable combinado
+51,pv2,Vehículos con capacidad de carga 2
+52,pv4,Vehículos con capacidad de carga 4
+53,range,Rango total
+54,rangeCity,Rango en ciudad
+55,rangeCityA,Rango en ciudad (combustible alternativo)
+56,rangeHwy,Rango en carretera
+57,rangeHwyA,Rango en carretera (combustible alternativo)
+58,trany,Tipo de transmisión
+59,UCity,Consumo de combustible en ciudad ajustado
+60,UCityA,Consumo de combustible en ciudad ajustado (combustible alternativo)
+61,UHighway,Consumo de combustible en carretera ajustado
+62,UHighwayA,Consumo de combustible en carretera ajustado (combustible alternativo)
+63,youSaveSpend,Ahorro o gasto estimado en combustible durante 5 años en comparación con el promedio
+64,charge240b,Consumo de electricidad a 240V (segunda carga)
+65,createdOn,Fecha de creación del registro
+66,modifiedOn,Fecha de modificación del registro
+67,phevCity,Consumo de combustible en modo eléctrico en ciudad
+68,phevHwy,Consumo de combustible en modo eléctrico en carretera
+69,phevComb,Consumo de combustible en modo eléctrico combinado

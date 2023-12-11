@@ -1,0 +1,15 @@
+,Nombre de la Columna,Descripción
+0,Brand,Marca del vehículo
+1,Model,Modelo del vehículo
+2,AccelSec,Aceleración de 0 a 100 km/h (segundos)
+3,TopSpeed_KmH,Velocidad máxima (km/h)
+4,Range_Km,Autonomía (kilómetros)
+5,Efficiency_WhKm,Eficiencia energética (Wh/km)
+6,FastCharge_KmH,Velocidad de carga rápida (km/h)
+7,RapidCharge,Carga rápida disponible (Sí/No)
+8,PowerTrain,Tipo de tren motriz
+9,PlugType,Tipo de conector de carga
+10,BodyStyle,Estilo de carrocería
+11,Segment,Segmento del vehículo
+12,Seats,Número de asientos
+13,PriceEuro,Precio en euros

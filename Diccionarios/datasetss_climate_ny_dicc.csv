@@ -1,0 +1,10 @@
+,Nombre de la Columna,Descripción
+0,date,Fecha y hora
+1,temperature_2m_max,Temperatura máxima a 2 metros (°C)
+2,temperature_2m_min,Temperatura mínima a 2 metros (°C)
+3,temperature_2m_mean,Temperatura media a 2 metros (°C)
+4,apparent_temperature_max,Temperatura aparente máxima (°C)
+5,apparent_temperature_min,Temperatura aparente mínima (°C)
+6,apparent_temperature_mean,Temperatura aparente media (°C)
+7,precipitation_sum,Suma de precipitación (mm)
+8,shortwave_radiation_sum,Suma de radiación de onda corta (kJ/m²)

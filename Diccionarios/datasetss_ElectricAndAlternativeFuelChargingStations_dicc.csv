@@ -1,0 +1,26 @@
+,Nombre de la Columna,Descripción
+0,Fuel Type Code,Código del tipo de combustible
+1,Station Name,Nombre de la estación
+2,Street Address,Dirección de la calle
+3,City,Ciudad
+4,State,Estado
+5,ZIP,Código postal
+6,Station Phone,Teléfono de la estación
+7,Status Code,Código de estado
+8,Groups With Access Code,Grupos con código de acceso
+9,Access Days Time,Horario de acceso
+10,EV Level2 EVSE Num,Número de puntos de carga de vehículos eléctricos de nivel 2
+11,EV Network,Red de vehículos eléctricos
+12,EV Network Web,Sitio web de la red de vehículos eléctricos
+13,Geocode Status,Estado de geocodificación
+14,Latitude,Latitud
+15,Longitude,Longitud
+16,Date Last Confirmed,Fecha de última confirmación
+17,ID,ID de la estación
+18,Updated At,Fecha de actualización
+19,Open Date,Fecha de apertura
+20,EV Connector Types,Tipos de conectores para vehículos eléctricos
+21,Country,País
+22,Groups With Access Code (French),Grupos con código de acceso (en francés)
+23,Access Code,Código de acceso
+24,Restricted Access,Acceso restringido

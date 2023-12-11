@@ -1,0 +1,14 @@
+,Nombre de la Columna,Descripción
+0,Country,País
+1,Energy_type,Tipo de energía
+2,Year,Año
+3,Energy_consumption,Consumo de energía
+4,Energy_production,Producción de energía
+5,GDP,Producto Interno Bruto (GDP)
+6,Population,Población
+7,Energy_intensity_per_capita,Intensidad energética per cápita
+8,Energy_intensity_by_GDP,Intensidad energética por GDP
+9,CO2_emission,Emisión de CO2
+10,Total_Energy,Energía total
+11,Renewable_Energy,Energía renovable
+12,Porcentaje de Energía Renovable,Porcentaje de energía renovable

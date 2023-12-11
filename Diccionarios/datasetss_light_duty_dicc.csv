@@ -1,0 +1,22 @@
+,Nombre de la Columna,Descripción
+0,Vehicle ID,Identificación del vehículo
+1,Fuel ID,Identificación del combustible
+2,Fuel Configuration ID,Identificación de la configuración del combustible
+3,Manufacturer ID,Identificación del fabricante
+4,Category ID,Identificación de la categoría
+5,Model,Modelo del vehículo
+6,Model Year,Año del modelo
+7,Alternative Fuel Economy City,Economía de combustible en ciudad con combustible alternativo
+8,Conventional Fuel Economy City,Economía de combustible en ciudad con combustible convencional
+9,Conventional Fuel Economy Highway,Economía de combustible en carretera con combustible convencional
+10,Transmission Type,Tipo de transmisión
+11,Engine Type,Tipo de motor
+12,Engine Size,Tamaño del motor
+13,Engine Cylinder Count,Número de cilindros del motor
+14,Engine Description,Descripción del motor
+15,Manufacturer,Fabricante del vehículo
+16,Manufacturer URL,URL del fabricante
+17,Category,Categoría del vehículo
+18,Fuel Code,Código del combustible
+19,Fuel,Tipo de combustible
+20,Fuel Configuration Name,Nombre de la configuración del combustible

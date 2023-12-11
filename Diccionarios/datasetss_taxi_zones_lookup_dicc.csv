@@ -1,0 +1,5 @@
+,Nombre de la Columna,Descripción
+0,LocationID,ID de ubicación del taxi
+1,Borough,Distrito de la ubicación
+2,Zone,Zona de la ubicación
+3,service_zone,Zona de servicio
