@@ -45,19 +45,19 @@ bash
 Copy code
 git clone [URL del repositorio]
 cd nyc-taxis-co2
-# instalar dependencias, configurar entorno, etc.
+#####instalar dependencias, configurar entorno, etc.
 
-# Autores y Reconocimientos 🌟:
+##### Autores y Reconocimientos 🌟:
 
-# Data science (ETL y ML):
+##### Data science (ETL y ML):
 Pablo Andres Klein
 Juan Ramón Perales Sosa
 
-# Data Analysis (EDA, dashboards y presentaciones) :
+##### Data Analysis (EDA, dashboards y presentaciones) :
 Kevin Lisandro Villareal
 Santiago Aguilar
 
-# Data Engineering (Google Cloud):
+##### Data Engineering (Google Cloud):
 Omar Baruch Avelino Gutierrez
 
 Agradecimientos a colaboradores, instituciones, etc.
