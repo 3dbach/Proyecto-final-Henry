@@ -59,7 +59,7 @@ Pablo Andres Klein
 Juan Ramón Perales Sosa
 
 ##### Data Analysis (EDA, dashboards y presentaciones) :
-Kevin Lisandro Villareal
+Kevin Lisandro Villarreal
 Santiago Aguilar
 
 ##### Data Engineering (Google Cloud):
