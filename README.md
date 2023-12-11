@@ -18,16 +18,19 @@ Google Data Studio: Para visualizaciones y dashboards interactivos.
 
 Estructura del Repositorio 📂
 
-##### /Datasets: Datos brutos y procesados.
+##### /Datasets:
+Datos brutos y procesados.
 
-##### /ETL: Jupyter notebooks con análisis exploratorio de datos y el ETL de los datos.
+##### /ETL: 
+Jupyter notebooks con análisis exploratorio de datos y el ETL de los datos.
 
 ##### /Modelos_IA: 
-  ##### DatosUsados : datasets usados para el entrenamiento y analisis del rendimiento de los modelos
-  ##### JupiterNotebooks : Jupyternotebooks con todos los procesos que requirieron los modelos
-  ##### Modelos : Contiene los modelos finales
+  DatosUsados : datasets usados para el entrenamiento y analisis del rendimiento de los modelos
+  JupiterNotebooks : Jupyternotebooks con todos los procesos que requirieron los modelos
+  Modelos : Contiene los modelos finales
 
-##### /dataset_Iniciales: Datasets iniciales si procesar
+##### /dataset_Iniciales: 
+Datasets iniciales si procesar
 
 Cómo Contribuir 👥
 
